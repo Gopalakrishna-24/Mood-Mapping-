@@ -1,0 +1,2001 @@
+TweetID,TweetText,Label
+1,"I feel so alone, even when I'm with people.",Depressed
+2,"I feel so alone, even when I'm with people.",Depressed
+3,I'm really enjoying this new book I'm reading.,Not_Depressed
+4,I feel like a burden to everyone around me.,Depressed
+5,I don't see any light at the end of the tunnel.,Depressed
+6,I've lost interest in everything I used to love.,Depressed
+7,I feel like a burden to everyone around me.,Depressed
+8,I'm really enjoying this new book I'm reading.,Not_Depressed
+9,Got a promotion at work today! So excited.,Not_Depressed
+10,I've lost interest in everything I used to love.,Depressed
+11,I've lost interest in everything I used to love.,Depressed
+12,Everything feels so heavy and meaningless.,Depressed
+13,"Today was a great day, I feel so happy!",Not_Depressed
+14,Life is beautiful and full of possibilities.,Not_Depressed
+15,"Today was a great day, I feel so happy!",Not_Depressed
+16,"Today was a great day, I feel so happy!",Not_Depressed
+17,I cry for no reason almost every day.,Depressed
+18,I've lost interest in everything I used to love.,Depressed
+19,Had a wonderful time at the park today.,Not_Depressed
+20,The sun is shining and I feel energized.,Not_Depressed
+21,I don't see any light at the end of the tunnel.,Depressed
+22,Everything is just too much to handle right now.,Depressed
+23,Had a wonderful time at the park today.,Not_Depressed
+24,I'm feeling really productive this morning.,Not_Depressed
+25,Looking forward to the weekend with my friends!,Not_Depressed
+26,Got a promotion at work today! So excited.,Not_Depressed
+27,It's hard to even get out of bed in the morning.,Depressed
+28,I feel so hopeless and tired all the time.,Depressed
+29,I don't see any light at the end of the tunnel.,Depressed
+30,It's hard to even get out of bed in the morning.,Depressed
+31,Life is beautiful and full of possibilities.,Not_Depressed
+32,Everything is just too much to handle right now.,Depressed
+33,Life is beautiful and full of possibilities.,Not_Depressed
+34,Life is beautiful and full of possibilities.,Not_Depressed
+35,It's hard to even get out of bed in the morning.,Depressed
+36,I feel like a burden to everyone around me.,Depressed
+37,I cry for no reason almost every day.,Depressed
+38,It's hard to even get out of bed in the morning.,Depressed
+39,The sun is shining and I feel energized.,Not_Depressed
+40,I don't see any light at the end of the tunnel.,Depressed
+41,I feel so hopeless and tired all the time.,Depressed
+42,Everything feels so heavy and meaningless.,Depressed
+43,I've lost interest in everything I used to love.,Depressed
+44,I cry for no reason almost every day.,Depressed
+45,I feel like a burden to everyone around me.,Depressed
+46,It's hard to even get out of bed in the morning.,Depressed
+47,Everything feels so heavy and meaningless.,Depressed
+48,I feel like a burden to everyone around me.,Depressed
+49,I cry for no reason almost every day.,Depressed
+50,The sun is shining and I feel energized.,Not_Depressed
+51,I feel like a burden to everyone around me.,Depressed
+52,Just had a delicious lunch!,Not_Depressed
+53,Got a promotion at work today! So excited.,Not_Depressed
+54,Everything is just too much to handle right now.,Depressed
+55,I cry for no reason almost every day.,Depressed
+56,Life is beautiful and full of possibilities.,Not_Depressed
+57,Everything is just too much to handle right now.,Depressed
+58,The sun is shining and I feel energized.,Not_Depressed
+59,I cry for no reason almost every day.,Depressed
+60,"I feel so alone, even when I'm with people.",Depressed
+61,I'm really enjoying this new book I'm reading.,Not_Depressed
+62,Everything is just too much to handle right now.,Depressed
+63,I'm really enjoying this new book I'm reading.,Not_Depressed
+64,Looking forward to the weekend with my friends!,Not_Depressed
+65,Everything is just too much to handle right now.,Depressed
+66,I don't see any light at the end of the tunnel.,Depressed
+67,I'm so grateful for my supportive friends.,Not_Depressed
+68,I've lost interest in everything I used to love.,Depressed
+69,I feel so hopeless and tired all the time.,Depressed
+70,The sun is shining and I feel energized.,Not_Depressed
+71,Looking forward to the weekend with my friends!,Not_Depressed
+72,Life is beautiful and full of possibilities.,Not_Depressed
+73,Everything is just too much to handle right now.,Depressed
+74,Had a wonderful time at the park today.,Not_Depressed
+75,I'm really enjoying this new book I'm reading.,Not_Depressed
+76,Life is beautiful and full of possibilities.,Not_Depressed
+77,Looking forward to the weekend with my friends!,Not_Depressed
+78,I just want to stay in bed and never wake up.,Depressed
+79,It's hard to even get out of bed in the morning.,Depressed
+80,I'm feeling really productive this morning.,Not_Depressed
+81,I cry for no reason almost every day.,Depressed
+82,I'm really enjoying this new book I'm reading.,Not_Depressed
+83,I cry for no reason almost every day.,Depressed
+84,Looking forward to the weekend with my friends!,Not_Depressed
+85,Had a wonderful time at the park today.,Not_Depressed
+86,I cry for no reason almost every day.,Depressed
+87,It's hard to even get out of bed in the morning.,Depressed
+88,I cry for no reason almost every day.,Depressed
+89,I cry for no reason almost every day.,Depressed
+90,I just want to stay in bed and never wake up.,Depressed
+91,The sun is shining and I feel energized.,Not_Depressed
+92,I feel like a burden to everyone around me.,Depressed
+93,The sun is shining and I feel energized.,Not_Depressed
+94,"I feel so alone, even when I'm with people.",Depressed
+95,Got a promotion at work today! So excited.,Not_Depressed
+96,Just had a delicious lunch!,Not_Depressed
+97,Everything is just too much to handle right now.,Depressed
+98,I feel like a burden to everyone around me.,Depressed
+99,Everything feels so heavy and meaningless.,Depressed
+100,Everything is just too much to handle right now.,Depressed
+101,Just had a delicious lunch!,Not_Depressed
+102,Just had a delicious lunch!,Not_Depressed
+103,The sun is shining and I feel energized.,Not_Depressed
+104,I just want to stay in bed and never wake up.,Depressed
+105,I've lost interest in everything I used to love.,Depressed
+106,"I feel so alone, even when I'm with people.",Depressed
+107,I cry for no reason almost every day.,Depressed
+108,Had a wonderful time at the park today.,Not_Depressed
+109,"Today was a great day, I feel so happy!",Not_Depressed
+110,The sun is shining and I feel energized.,Not_Depressed
+111,Life is beautiful and full of possibilities.,Not_Depressed
+112,I'm feeling really productive this morning.,Not_Depressed
+113,It's hard to even get out of bed in the morning.,Depressed
+114,Had a wonderful time at the park today.,Not_Depressed
+115,Life is beautiful and full of possibilities.,Not_Depressed
+116,I feel so hopeless and tired all the time.,Depressed
+117,Just had a delicious lunch!,Not_Depressed
+118,I feel so hopeless and tired all the time.,Depressed
+119,"Today was a great day, I feel so happy!",Not_Depressed
+120,It's hard to even get out of bed in the morning.,Depressed
+121,Had a wonderful time at the park today.,Not_Depressed
+122,Everything is just too much to handle right now.,Depressed
+123,Everything feels so heavy and meaningless.,Depressed
+124,"I feel so alone, even when I'm with people.",Depressed
+125,I've lost interest in everything I used to love.,Depressed
+126,I don't see any light at the end of the tunnel.,Depressed
+127,Had a wonderful time at the park today.,Not_Depressed
+128,Everything is just too much to handle right now.,Depressed
+129,Had a wonderful time at the park today.,Not_Depressed
+130,I cry for no reason almost every day.,Depressed
+131,I feel so hopeless and tired all the time.,Depressed
+132,I'm so grateful for my supportive friends.,Not_Depressed
+133,"I feel so alone, even when I'm with people.",Depressed
+134,I don't see any light at the end of the tunnel.,Depressed
+135,I've lost interest in everything I used to love.,Depressed
+136,Everything feels so heavy and meaningless.,Depressed
+137,I'm really enjoying this new book I'm reading.,Not_Depressed
+138,I don't see any light at the end of the tunnel.,Depressed
+139,Everything is just too much to handle right now.,Depressed
+140,I'm so grateful for my supportive friends.,Not_Depressed
+141,"Today was a great day, I feel so happy!",Not_Depressed
+142,I just want to stay in bed and never wake up.,Depressed
+143,"Today was a great day, I feel so happy!",Not_Depressed
+144,I'm feeling really productive this morning.,Not_Depressed
+145,I don't see any light at the end of the tunnel.,Depressed
+146,"Today was a great day, I feel so happy!",Not_Depressed
+147,Just had a delicious lunch!,Not_Depressed
+148,Everything is just too much to handle right now.,Depressed
+149,Looking forward to the weekend with my friends!,Not_Depressed
+150,Everything is just too much to handle right now.,Depressed
+151,Everything feels so heavy and meaningless.,Depressed
+152,Life is beautiful and full of possibilities.,Not_Depressed
+153,I cry for no reason almost every day.,Depressed
+154,I feel like a burden to everyone around me.,Depressed
+155,Had a wonderful time at the park today.,Not_Depressed
+156,I don't see any light at the end of the tunnel.,Depressed
+157,I feel so hopeless and tired all the time.,Depressed
+158,I'm really enjoying this new book I'm reading.,Not_Depressed
+159,I cry for no reason almost every day.,Depressed
+160,The sun is shining and I feel energized.,Not_Depressed
+161,It's hard to even get out of bed in the morning.,Depressed
+162,I've lost interest in everything I used to love.,Depressed
+163,Got a promotion at work today! So excited.,Not_Depressed
+164,Life is beautiful and full of possibilities.,Not_Depressed
+165,I'm so grateful for my supportive friends.,Not_Depressed
+166,"I feel so alone, even when I'm with people.",Depressed
+167,Looking forward to the weekend with my friends!,Not_Depressed
+168,"I feel so alone, even when I'm with people.",Depressed
+169,Had a wonderful time at the park today.,Not_Depressed
+170,I cry for no reason almost every day.,Depressed
+171,"Today was a great day, I feel so happy!",Not_Depressed
+172,Got a promotion at work today! So excited.,Not_Depressed
+173,I'm really enjoying this new book I'm reading.,Not_Depressed
+174,I'm so grateful for my supportive friends.,Not_Depressed
+175,Everything feels so heavy and meaningless.,Depressed
+176,I cry for no reason almost every day.,Depressed
+177,I feel like a burden to everyone around me.,Depressed
+178,"Today was a great day, I feel so happy!",Not_Depressed
+179,Everything feels so heavy and meaningless.,Depressed
+180,It's hard to even get out of bed in the morning.,Depressed
+181,I'm so grateful for my supportive friends.,Not_Depressed
+182,Got a promotion at work today! So excited.,Not_Depressed
+183,Everything is just too much to handle right now.,Depressed
+184,Everything feels so heavy and meaningless.,Depressed
+185,Everything is just too much to handle right now.,Depressed
+186,I've lost interest in everything I used to love.,Depressed
+187,The sun is shining and I feel energized.,Not_Depressed
+188,I feel like a burden to everyone around me.,Depressed
+189,I'm feeling really productive this morning.,Not_Depressed
+190,Everything feels so heavy and meaningless.,Depressed
+191,Everything is just too much to handle right now.,Depressed
+192,I'm so grateful for my supportive friends.,Not_Depressed
+193,I'm really enjoying this new book I'm reading.,Not_Depressed
+194,"I feel so alone, even when I'm with people.",Depressed
+195,Had a wonderful time at the park today.,Not_Depressed
+196,I'm really enjoying this new book I'm reading.,Not_Depressed
+197,I'm feeling really productive this morning.,Not_Depressed
+198,"I feel so alone, even when I'm with people.",Depressed
+199,I cry for no reason almost every day.,Depressed
+200,I feel so hopeless and tired all the time.,Depressed
+201,The sun is shining and I feel energized.,Not_Depressed
+202,Got a promotion at work today! So excited.,Not_Depressed
+203,I don't see any light at the end of the tunnel.,Depressed
+204,I'm so grateful for my supportive friends.,Not_Depressed
+205,"Today was a great day, I feel so happy!",Not_Depressed
+206,Life is beautiful and full of possibilities.,Not_Depressed
+207,"Today was a great day, I feel so happy!",Not_Depressed
+208,Everything is just too much to handle right now.,Depressed
+209,I feel like a burden to everyone around me.,Depressed
+210,Got a promotion at work today! So excited.,Not_Depressed
+211,I don't see any light at the end of the tunnel.,Depressed
+212,I'm so grateful for my supportive friends.,Not_Depressed
+213,"I feel so alone, even when I'm with people.",Depressed
+214,I cry for no reason almost every day.,Depressed
+215,Got a promotion at work today! So excited.,Not_Depressed
+216,I cry for no reason almost every day.,Depressed
+217,Had a wonderful time at the park today.,Not_Depressed
+218,I cry for no reason almost every day.,Depressed
+219,It's hard to even get out of bed in the morning.,Depressed
+220,I've lost interest in everything I used to love.,Depressed
+221,I don't see any light at the end of the tunnel.,Depressed
+222,I'm feeling really productive this morning.,Not_Depressed
+223,Looking forward to the weekend with my friends!,Not_Depressed
+224,I'm really enjoying this new book I'm reading.,Not_Depressed
+225,I feel so hopeless and tired all the time.,Depressed
+226,Just had a delicious lunch!,Not_Depressed
+227,I cry for no reason almost every day.,Depressed
+228,I don't see any light at the end of the tunnel.,Depressed
+229,"Today was a great day, I feel so happy!",Not_Depressed
+230,Looking forward to the weekend with my friends!,Not_Depressed
+231,Got a promotion at work today! So excited.,Not_Depressed
+232,Got a promotion at work today! So excited.,Not_Depressed
+233,I don't see any light at the end of the tunnel.,Depressed
+234,Everything feels so heavy and meaningless.,Depressed
+235,I just want to stay in bed and never wake up.,Depressed
+236,I cry for no reason almost every day.,Depressed
+237,Everything is just too much to handle right now.,Depressed
+238,I cry for no reason almost every day.,Depressed
+239,I just want to stay in bed and never wake up.,Depressed
+240,Looking forward to the weekend with my friends!,Not_Depressed
+241,I feel like a burden to everyone around me.,Depressed
+242,Life is beautiful and full of possibilities.,Not_Depressed
+243,I feel like a burden to everyone around me.,Depressed
+244,Life is beautiful and full of possibilities.,Not_Depressed
+245,I'm really enjoying this new book I'm reading.,Not_Depressed
+246,I'm so grateful for my supportive friends.,Not_Depressed
+247,The sun is shining and I feel energized.,Not_Depressed
+248,Everything feels so heavy and meaningless.,Depressed
+249,Looking forward to the weekend with my friends!,Not_Depressed
+250,I'm really enjoying this new book I'm reading.,Not_Depressed
+251,"I feel so alone, even when I'm with people.",Depressed
+252,Life is beautiful and full of possibilities.,Not_Depressed
+253,Looking forward to the weekend with my friends!,Not_Depressed
+254,It's hard to even get out of bed in the morning.,Depressed
+255,It's hard to even get out of bed in the morning.,Depressed
+256,I don't see any light at the end of the tunnel.,Depressed
+257,I feel like a burden to everyone around me.,Depressed
+258,Everything feels so heavy and meaningless.,Depressed
+259,I'm feeling really productive this morning.,Not_Depressed
+260,It's hard to even get out of bed in the morning.,Depressed
+261,Everything feels so heavy and meaningless.,Depressed
+262,The sun is shining and I feel energized.,Not_Depressed
+263,Life is beautiful and full of possibilities.,Not_Depressed
+264,I'm really enjoying this new book I'm reading.,Not_Depressed
+265,Looking forward to the weekend with my friends!,Not_Depressed
+266,It's hard to even get out of bed in the morning.,Depressed
+267,I feel like a burden to everyone around me.,Depressed
+268,Had a wonderful time at the park today.,Not_Depressed
+269,The sun is shining and I feel energized.,Not_Depressed
+270,I've lost interest in everything I used to love.,Depressed
+271,I just want to stay in bed and never wake up.,Depressed
+272,I feel like a burden to everyone around me.,Depressed
+273,I don't see any light at the end of the tunnel.,Depressed
+274,The sun is shining and I feel energized.,Not_Depressed
+275,I just want to stay in bed and never wake up.,Depressed
+276,"I feel so alone, even when I'm with people.",Depressed
+277,I'm really enjoying this new book I'm reading.,Not_Depressed
+278,I'm really enjoying this new book I'm reading.,Not_Depressed
+279,Just had a delicious lunch!,Not_Depressed
+280,Life is beautiful and full of possibilities.,Not_Depressed
+281,Had a wonderful time at the park today.,Not_Depressed
+282,Life is beautiful and full of possibilities.,Not_Depressed
+283,Got a promotion at work today! So excited.,Not_Depressed
+284,I don't see any light at the end of the tunnel.,Depressed
+285,Looking forward to the weekend with my friends!,Not_Depressed
+286,I'm so grateful for my supportive friends.,Not_Depressed
+287,I don't see any light at the end of the tunnel.,Depressed
+288,The sun is shining and I feel energized.,Not_Depressed
+289,Just had a delicious lunch!,Not_Depressed
+290,Everything is just too much to handle right now.,Depressed
+291,"Today was a great day, I feel so happy!",Not_Depressed
+292,It's hard to even get out of bed in the morning.,Depressed
+293,I don't see any light at the end of the tunnel.,Depressed
+294,Looking forward to the weekend with my friends!,Not_Depressed
+295,"Today was a great day, I feel so happy!",Not_Depressed
+296,Life is beautiful and full of possibilities.,Not_Depressed
+297,Everything feels so heavy and meaningless.,Depressed
+298,The sun is shining and I feel energized.,Not_Depressed
+299,It's hard to even get out of bed in the morning.,Depressed
+300,Got a promotion at work today! So excited.,Not_Depressed
+301,Life is beautiful and full of possibilities.,Not_Depressed
+302,Life is beautiful and full of possibilities.,Not_Depressed
+303,I feel so hopeless and tired all the time.,Depressed
+304,Life is beautiful and full of possibilities.,Not_Depressed
+305,I feel so hopeless and tired all the time.,Depressed
+306,I just want to stay in bed and never wake up.,Depressed
+307,I cry for no reason almost every day.,Depressed
+308,I just want to stay in bed and never wake up.,Depressed
+309,Looking forward to the weekend with my friends!,Not_Depressed
+310,Life is beautiful and full of possibilities.,Not_Depressed
+311,I'm so grateful for my supportive friends.,Not_Depressed
+312,I've lost interest in everything I used to love.,Depressed
+313,I feel like a burden to everyone around me.,Depressed
+314,I've lost interest in everything I used to love.,Depressed
+315,Life is beautiful and full of possibilities.,Not_Depressed
+316,Life is beautiful and full of possibilities.,Not_Depressed
+317,I feel like a burden to everyone around me.,Depressed
+318,I'm feeling really productive this morning.,Not_Depressed
+319,I feel like a burden to everyone around me.,Depressed
+320,Everything is just too much to handle right now.,Depressed
+321,It's hard to even get out of bed in the morning.,Depressed
+322,I don't see any light at the end of the tunnel.,Depressed
+323,"Today was a great day, I feel so happy!",Not_Depressed
+324,"I feel so alone, even when I'm with people.",Depressed
+325,"I feel so alone, even when I'm with people.",Depressed
+326,Looking forward to the weekend with my friends!,Not_Depressed
+327,I'm so grateful for my supportive friends.,Not_Depressed
+328,I cry for no reason almost every day.,Depressed
+329,The sun is shining and I feel energized.,Not_Depressed
+330,I just want to stay in bed and never wake up.,Depressed
+331,I've lost interest in everything I used to love.,Depressed
+332,Everything feels so heavy and meaningless.,Depressed
+333,"Today was a great day, I feel so happy!",Not_Depressed
+334,Everything feels so heavy and meaningless.,Depressed
+335,Everything feels so heavy and meaningless.,Depressed
+336,Life is beautiful and full of possibilities.,Not_Depressed
+337,I cry for no reason almost every day.,Depressed
+338,I feel like a burden to everyone around me.,Depressed
+339,The sun is shining and I feel energized.,Not_Depressed
+340,Just had a delicious lunch!,Not_Depressed
+341,Looking forward to the weekend with my friends!,Not_Depressed
+342,It's hard to even get out of bed in the morning.,Depressed
+343,I don't see any light at the end of the tunnel.,Depressed
+344,Everything is just too much to handle right now.,Depressed
+345,I'm feeling really productive this morning.,Not_Depressed
+346,I've lost interest in everything I used to love.,Depressed
+347,I'm really enjoying this new book I'm reading.,Not_Depressed
+348,I feel like a burden to everyone around me.,Depressed
+349,The sun is shining and I feel energized.,Not_Depressed
+350,"Today was a great day, I feel so happy!",Not_Depressed
+351,"Today was a great day, I feel so happy!",Not_Depressed
+352,It's hard to even get out of bed in the morning.,Depressed
+353,"I feel so alone, even when I'm with people.",Depressed
+354,I'm really enjoying this new book I'm reading.,Not_Depressed
+355,Just had a delicious lunch!,Not_Depressed
+356,Had a wonderful time at the park today.,Not_Depressed
+357,I cry for no reason almost every day.,Depressed
+358,I feel so hopeless and tired all the time.,Depressed
+359,I don't see any light at the end of the tunnel.,Depressed
+360,I'm so grateful for my supportive friends.,Not_Depressed
+361,Had a wonderful time at the park today.,Not_Depressed
+362,Looking forward to the weekend with my friends!,Not_Depressed
+363,"Today was a great day, I feel so happy!",Not_Depressed
+364,It's hard to even get out of bed in the morning.,Depressed
+365,Got a promotion at work today! So excited.,Not_Depressed
+366,I've lost interest in everything I used to love.,Depressed
+367,Got a promotion at work today! So excited.,Not_Depressed
+368,Life is beautiful and full of possibilities.,Not_Depressed
+369,Everything is just too much to handle right now.,Depressed
+370,Life is beautiful and full of possibilities.,Not_Depressed
+371,Just had a delicious lunch!,Not_Depressed
+372,"Today was a great day, I feel so happy!",Not_Depressed
+373,I'm so grateful for my supportive friends.,Not_Depressed
+374,"I feel so alone, even when I'm with people.",Depressed
+375,It's hard to even get out of bed in the morning.,Depressed
+376,Got a promotion at work today! So excited.,Not_Depressed
+377,I just want to stay in bed and never wake up.,Depressed
+378,I feel so hopeless and tired all the time.,Depressed
+379,"Today was a great day, I feel so happy!",Not_Depressed
+380,I've lost interest in everything I used to love.,Depressed
+381,"Today was a great day, I feel so happy!",Not_Depressed
+382,It's hard to even get out of bed in the morning.,Depressed
+383,I cry for no reason almost every day.,Depressed
+384,Looking forward to the weekend with my friends!,Not_Depressed
+385,"I feel so alone, even when I'm with people.",Depressed
+386,The sun is shining and I feel energized.,Not_Depressed
+387,Just had a delicious lunch!,Not_Depressed
+388,"Today was a great day, I feel so happy!",Not_Depressed
+389,I'm so grateful for my supportive friends.,Not_Depressed
+390,Just had a delicious lunch!,Not_Depressed
+391,Had a wonderful time at the park today.,Not_Depressed
+392,I feel like a burden to everyone around me.,Depressed
+393,Life is beautiful and full of possibilities.,Not_Depressed
+394,I don't see any light at the end of the tunnel.,Depressed
+395,"I feel so alone, even when I'm with people.",Depressed
+396,I feel so hopeless and tired all the time.,Depressed
+397,Had a wonderful time at the park today.,Not_Depressed
+398,It's hard to even get out of bed in the morning.,Depressed
+399,"Today was a great day, I feel so happy!",Not_Depressed
+400,Just had a delicious lunch!,Not_Depressed
+401,I'm so grateful for my supportive friends.,Not_Depressed
+402,Everything is just too much to handle right now.,Depressed
+403,The sun is shining and I feel energized.,Not_Depressed
+404,Had a wonderful time at the park today.,Not_Depressed
+405,I'm feeling really productive this morning.,Not_Depressed
+406,The sun is shining and I feel energized.,Not_Depressed
+407,Got a promotion at work today! So excited.,Not_Depressed
+408,Had a wonderful time at the park today.,Not_Depressed
+409,Had a wonderful time at the park today.,Not_Depressed
+410,Had a wonderful time at the park today.,Not_Depressed
+411,Got a promotion at work today! So excited.,Not_Depressed
+412,The sun is shining and I feel energized.,Not_Depressed
+413,I feel like a burden to everyone around me.,Depressed
+414,Looking forward to the weekend with my friends!,Not_Depressed
+415,Life is beautiful and full of possibilities.,Not_Depressed
+416,I feel so hopeless and tired all the time.,Depressed
+417,"Today was a great day, I feel so happy!",Not_Depressed
+418,It's hard to even get out of bed in the morning.,Depressed
+419,Everything feels so heavy and meaningless.,Depressed
+420,I'm really enjoying this new book I'm reading.,Not_Depressed
+421,"Today was a great day, I feel so happy!",Not_Depressed
+422,The sun is shining and I feel energized.,Not_Depressed
+423,"Today was a great day, I feel so happy!",Not_Depressed
+424,Had a wonderful time at the park today.,Not_Depressed
+425,Everything is just too much to handle right now.,Depressed
+426,Had a wonderful time at the park today.,Not_Depressed
+427,The sun is shining and I feel energized.,Not_Depressed
+428,I don't see any light at the end of the tunnel.,Depressed
+429,Everything is just too much to handle right now.,Depressed
+430,I just want to stay in bed and never wake up.,Depressed
+431,I just want to stay in bed and never wake up.,Depressed
+432,I don't see any light at the end of the tunnel.,Depressed
+433,I cry for no reason almost every day.,Depressed
+434,Had a wonderful time at the park today.,Not_Depressed
+435,Life is beautiful and full of possibilities.,Not_Depressed
+436,Got a promotion at work today! So excited.,Not_Depressed
+437,I don't see any light at the end of the tunnel.,Depressed
+438,"Today was a great day, I feel so happy!",Not_Depressed
+439,I just want to stay in bed and never wake up.,Depressed
+440,I cry for no reason almost every day.,Depressed
+441,"Today was a great day, I feel so happy!",Not_Depressed
+442,Just had a delicious lunch!,Not_Depressed
+443,I've lost interest in everything I used to love.,Depressed
+444,Had a wonderful time at the park today.,Not_Depressed
+445,Just had a delicious lunch!,Not_Depressed
+446,I feel like a burden to everyone around me.,Depressed
+447,I've lost interest in everything I used to love.,Depressed
+448,Everything is just too much to handle right now.,Depressed
+449,I'm so grateful for my supportive friends.,Not_Depressed
+450,"I feel so alone, even when I'm with people.",Depressed
+451,Got a promotion at work today! So excited.,Not_Depressed
+452,I'm so grateful for my supportive friends.,Not_Depressed
+453,Just had a delicious lunch!,Not_Depressed
+454,Everything is just too much to handle right now.,Depressed
+455,I feel so hopeless and tired all the time.,Depressed
+456,"I feel so alone, even when I'm with people.",Depressed
+457,Life is beautiful and full of possibilities.,Not_Depressed
+458,I just want to stay in bed and never wake up.,Depressed
+459,Looking forward to the weekend with my friends!,Not_Depressed
+460,I just want to stay in bed and never wake up.,Depressed
+461,I cry for no reason almost every day.,Depressed
+462,"I feel so alone, even when I'm with people.",Depressed
+463,Looking forward to the weekend with my friends!,Not_Depressed
+464,I cry for no reason almost every day.,Depressed
+465,I feel so hopeless and tired all the time.,Depressed
+466,I feel so hopeless and tired all the time.,Depressed
+467,"Today was a great day, I feel so happy!",Not_Depressed
+468,The sun is shining and I feel energized.,Not_Depressed
+469,Life is beautiful and full of possibilities.,Not_Depressed
+470,I don't see any light at the end of the tunnel.,Depressed
+471,Everything is just too much to handle right now.,Depressed
+472,I've lost interest in everything I used to love.,Depressed
+473,"Today was a great day, I feel so happy!",Not_Depressed
+474,I'm really enjoying this new book I'm reading.,Not_Depressed
+475,"Today was a great day, I feel so happy!",Not_Depressed
+476,I feel so hopeless and tired all the time.,Depressed
+477,I cry for no reason almost every day.,Depressed
+478,Everything feels so heavy and meaningless.,Depressed
+479,Got a promotion at work today! So excited.,Not_Depressed
+480,I'm so grateful for my supportive friends.,Not_Depressed
+481,The sun is shining and I feel energized.,Not_Depressed
+482,Had a wonderful time at the park today.,Not_Depressed
+483,"Today was a great day, I feel so happy!",Not_Depressed
+484,I don't see any light at the end of the tunnel.,Depressed
+485,I'm feeling really productive this morning.,Not_Depressed
+486,Life is beautiful and full of possibilities.,Not_Depressed
+487,I'm really enjoying this new book I'm reading.,Not_Depressed
+488,I'm so grateful for my supportive friends.,Not_Depressed
+489,Just had a delicious lunch!,Not_Depressed
+490,I'm so grateful for my supportive friends.,Not_Depressed
+491,It's hard to even get out of bed in the morning.,Depressed
+492,I'm so grateful for my supportive friends.,Not_Depressed
+493,I'm feeling really productive this morning.,Not_Depressed
+494,"Today was a great day, I feel so happy!",Not_Depressed
+495,The sun is shining and I feel energized.,Not_Depressed
+496,I feel so hopeless and tired all the time.,Depressed
+497,Life is beautiful and full of possibilities.,Not_Depressed
+498,I just want to stay in bed and never wake up.,Depressed
+499,I'm so grateful for my supportive friends.,Not_Depressed
+500,Had a wonderful time at the park today.,Not_Depressed
+501,I'm really enjoying this new book I'm reading.,Not_Depressed
+502,I'm feeling really productive this morning.,Not_Depressed
+503,Life is beautiful and full of possibilities.,Not_Depressed
+504,I'm so grateful for my supportive friends.,Not_Depressed
+505,The sun is shining and I feel energized.,Not_Depressed
+506,"I feel so alone, even when I'm with people.",Depressed
+507,I feel so hopeless and tired all the time.,Depressed
+508,Just had a delicious lunch!,Not_Depressed
+509,It's hard to even get out of bed in the morning.,Depressed
+510,Everything is just too much to handle right now.,Depressed
+511,I'm so grateful for my supportive friends.,Not_Depressed
+512,"Today was a great day, I feel so happy!",Not_Depressed
+513,The sun is shining and I feel energized.,Not_Depressed
+514,Had a wonderful time at the park today.,Not_Depressed
+515,I don't see any light at the end of the tunnel.,Depressed
+516,"I feel so alone, even when I'm with people.",Depressed
+517,"Today was a great day, I feel so happy!",Not_Depressed
+518,Everything is just too much to handle right now.,Depressed
+519,I'm really enjoying this new book I'm reading.,Not_Depressed
+520,Got a promotion at work today! So excited.,Not_Depressed
+521,Everything feels so heavy and meaningless.,Depressed
+522,Had a wonderful time at the park today.,Not_Depressed
+523,Got a promotion at work today! So excited.,Not_Depressed
+524,I'm so grateful for my supportive friends.,Not_Depressed
+525,Just had a delicious lunch!,Not_Depressed
+526,I just want to stay in bed and never wake up.,Depressed
+527,I'm so grateful for my supportive friends.,Not_Depressed
+528,Had a wonderful time at the park today.,Not_Depressed
+529,I don't see any light at the end of the tunnel.,Depressed
+530,Just had a delicious lunch!,Not_Depressed
+531,Everything is just too much to handle right now.,Depressed
+532,Everything feels so heavy and meaningless.,Depressed
+533,I just want to stay in bed and never wake up.,Depressed
+534,Just had a delicious lunch!,Not_Depressed
+535,It's hard to even get out of bed in the morning.,Depressed
+536,I feel like a burden to everyone around me.,Depressed
+537,Got a promotion at work today! So excited.,Not_Depressed
+538,The sun is shining and I feel energized.,Not_Depressed
+539,I'm feeling really productive this morning.,Not_Depressed
+540,I just want to stay in bed and never wake up.,Depressed
+541,"I feel so alone, even when I'm with people.",Depressed
+542,I've lost interest in everything I used to love.,Depressed
+543,I'm so grateful for my supportive friends.,Not_Depressed
+544,I'm really enjoying this new book I'm reading.,Not_Depressed
+545,"Today was a great day, I feel so happy!",Not_Depressed
+546,It's hard to even get out of bed in the morning.,Depressed
+547,Had a wonderful time at the park today.,Not_Depressed
+548,I'm really enjoying this new book I'm reading.,Not_Depressed
+549,"I feel so alone, even when I'm with people.",Depressed
+550,I feel so hopeless and tired all the time.,Depressed
+551,I feel like a burden to everyone around me.,Depressed
+552,Had a wonderful time at the park today.,Not_Depressed
+553,Everything feels so heavy and meaningless.,Depressed
+554,The sun is shining and I feel energized.,Not_Depressed
+555,I just want to stay in bed and never wake up.,Depressed
+556,"I feel so alone, even when I'm with people.",Depressed
+557,I don't see any light at the end of the tunnel.,Depressed
+558,I'm feeling really productive this morning.,Not_Depressed
+559,Got a promotion at work today! So excited.,Not_Depressed
+560,I'm feeling really productive this morning.,Not_Depressed
+561,"I feel so alone, even when I'm with people.",Depressed
+562,Life is beautiful and full of possibilities.,Not_Depressed
+563,I feel like a burden to everyone around me.,Depressed
+564,I'm feeling really productive this morning.,Not_Depressed
+565,I'm so grateful for my supportive friends.,Not_Depressed
+566,I just want to stay in bed and never wake up.,Depressed
+567,I'm so grateful for my supportive friends.,Not_Depressed
+568,Looking forward to the weekend with my friends!,Not_Depressed
+569,I cry for no reason almost every day.,Depressed
+570,It's hard to even get out of bed in the morning.,Depressed
+571,I feel so hopeless and tired all the time.,Depressed
+572,I'm feeling really productive this morning.,Not_Depressed
+573,I cry for no reason almost every day.,Depressed
+574,I'm so grateful for my supportive friends.,Not_Depressed
+575,I don't see any light at the end of the tunnel.,Depressed
+576,The sun is shining and I feel energized.,Not_Depressed
+577,Everything feels so heavy and meaningless.,Depressed
+578,The sun is shining and I feel energized.,Not_Depressed
+579,Looking forward to the weekend with my friends!,Not_Depressed
+580,I just want to stay in bed and never wake up.,Depressed
+581,Life is beautiful and full of possibilities.,Not_Depressed
+582,I feel like a burden to everyone around me.,Depressed
+583,I feel like a burden to everyone around me.,Depressed
+584,I've lost interest in everything I used to love.,Depressed
+585,"Today was a great day, I feel so happy!",Not_Depressed
+586,"Today was a great day, I feel so happy!",Not_Depressed
+587,I feel like a burden to everyone around me.,Depressed
+588,Everything is just too much to handle right now.,Depressed
+589,I feel like a burden to everyone around me.,Depressed
+590,Had a wonderful time at the park today.,Not_Depressed
+591,I've lost interest in everything I used to love.,Depressed
+592,I'm feeling really productive this morning.,Not_Depressed
+593,I'm so grateful for my supportive friends.,Not_Depressed
+594,I just want to stay in bed and never wake up.,Depressed
+595,I cry for no reason almost every day.,Depressed
+596,Had a wonderful time at the park today.,Not_Depressed
+597,I've lost interest in everything I used to love.,Depressed
+598,Life is beautiful and full of possibilities.,Not_Depressed
+599,I feel so hopeless and tired all the time.,Depressed
+600,I feel so hopeless and tired all the time.,Depressed
+601,I just want to stay in bed and never wake up.,Depressed
+602,"I feel so alone, even when I'm with people.",Depressed
+603,The sun is shining and I feel energized.,Not_Depressed
+604,I'm really enjoying this new book I'm reading.,Not_Depressed
+605,"I feel so alone, even when I'm with people.",Depressed
+606,Life is beautiful and full of possibilities.,Not_Depressed
+607,I'm really enjoying this new book I'm reading.,Not_Depressed
+608,Looking forward to the weekend with my friends!,Not_Depressed
+609,Just had a delicious lunch!,Not_Depressed
+610,Got a promotion at work today! So excited.,Not_Depressed
+611,Looking forward to the weekend with my friends!,Not_Depressed
+612,I feel like a burden to everyone around me.,Depressed
+613,Just had a delicious lunch!,Not_Depressed
+614,I'm feeling really productive this morning.,Not_Depressed
+615,I'm really enjoying this new book I'm reading.,Not_Depressed
+616,I don't see any light at the end of the tunnel.,Depressed
+617,It's hard to even get out of bed in the morning.,Depressed
+618,I don't see any light at the end of the tunnel.,Depressed
+619,Got a promotion at work today! So excited.,Not_Depressed
+620,"Today was a great day, I feel so happy!",Not_Depressed
+621,Everything is just too much to handle right now.,Depressed
+622,I'm really enjoying this new book I'm reading.,Not_Depressed
+623,I'm so grateful for my supportive friends.,Not_Depressed
+624,The sun is shining and I feel energized.,Not_Depressed
+625,I cry for no reason almost every day.,Depressed
+626,Life is beautiful and full of possibilities.,Not_Depressed
+627,Had a wonderful time at the park today.,Not_Depressed
+628,Just had a delicious lunch!,Not_Depressed
+629,I've lost interest in everything I used to love.,Depressed
+630,Life is beautiful and full of possibilities.,Not_Depressed
+631,Looking forward to the weekend with my friends!,Not_Depressed
+632,"I feel so alone, even when I'm with people.",Depressed
+633,It's hard to even get out of bed in the morning.,Depressed
+634,Everything is just too much to handle right now.,Depressed
+635,It's hard to even get out of bed in the morning.,Depressed
+636,I just want to stay in bed and never wake up.,Depressed
+637,I feel like a burden to everyone around me.,Depressed
+638,I feel like a burden to everyone around me.,Depressed
+639,Looking forward to the weekend with my friends!,Not_Depressed
+640,It's hard to even get out of bed in the morning.,Depressed
+641,I'm so grateful for my supportive friends.,Not_Depressed
+642,I'm so grateful for my supportive friends.,Not_Depressed
+643,I feel so hopeless and tired all the time.,Depressed
+644,Looking forward to the weekend with my friends!,Not_Depressed
+645,I don't see any light at the end of the tunnel.,Depressed
+646,It's hard to even get out of bed in the morning.,Depressed
+647,The sun is shining and I feel energized.,Not_Depressed
+648,The sun is shining and I feel energized.,Not_Depressed
+649,I don't see any light at the end of the tunnel.,Depressed
+650,It's hard to even get out of bed in the morning.,Depressed
+651,Got a promotion at work today! So excited.,Not_Depressed
+652,Just had a delicious lunch!,Not_Depressed
+653,I feel like a burden to everyone around me.,Depressed
+654,It's hard to even get out of bed in the morning.,Depressed
+655,The sun is shining and I feel energized.,Not_Depressed
+656,I feel like a burden to everyone around me.,Depressed
+657,I feel like a burden to everyone around me.,Depressed
+658,I'm feeling really productive this morning.,Not_Depressed
+659,Looking forward to the weekend with my friends!,Not_Depressed
+660,"I feel so alone, even when I'm with people.",Depressed
+661,"Today was a great day, I feel so happy!",Not_Depressed
+662,Just had a delicious lunch!,Not_Depressed
+663,"I feel so alone, even when I'm with people.",Depressed
+664,I don't see any light at the end of the tunnel.,Depressed
+665,I feel like a burden to everyone around me.,Depressed
+666,"I feel so alone, even when I'm with people.",Depressed
+667,It's hard to even get out of bed in the morning.,Depressed
+668,Just had a delicious lunch!,Not_Depressed
+669,I just want to stay in bed and never wake up.,Depressed
+670,I'm feeling really productive this morning.,Not_Depressed
+671,Just had a delicious lunch!,Not_Depressed
+672,I'm feeling really productive this morning.,Not_Depressed
+673,I just want to stay in bed and never wake up.,Depressed
+674,Life is beautiful and full of possibilities.,Not_Depressed
+675,I'm feeling really productive this morning.,Not_Depressed
+676,I don't see any light at the end of the tunnel.,Depressed
+677,The sun is shining and I feel energized.,Not_Depressed
+678,I'm feeling really productive this morning.,Not_Depressed
+679,Looking forward to the weekend with my friends!,Not_Depressed
+680,I'm really enjoying this new book I'm reading.,Not_Depressed
+681,I feel so hopeless and tired all the time.,Depressed
+682,I cry for no reason almost every day.,Depressed
+683,Got a promotion at work today! So excited.,Not_Depressed
+684,Life is beautiful and full of possibilities.,Not_Depressed
+685,I'm really enjoying this new book I'm reading.,Not_Depressed
+686,Life is beautiful and full of possibilities.,Not_Depressed
+687,"I feel so alone, even when I'm with people.",Depressed
+688,I'm feeling really productive this morning.,Not_Depressed
+689,I don't see any light at the end of the tunnel.,Depressed
+690,Just had a delicious lunch!,Not_Depressed
+691,I cry for no reason almost every day.,Depressed
+692,I'm really enjoying this new book I'm reading.,Not_Depressed
+693,I've lost interest in everything I used to love.,Depressed
+694,Life is beautiful and full of possibilities.,Not_Depressed
+695,I've lost interest in everything I used to love.,Depressed
+696,Looking forward to the weekend with my friends!,Not_Depressed
+697,I've lost interest in everything I used to love.,Depressed
+698,I've lost interest in everything I used to love.,Depressed
+699,The sun is shining and I feel energized.,Not_Depressed
+700,I feel so hopeless and tired all the time.,Depressed
+701,I feel so hopeless and tired all the time.,Depressed
+702,Had a wonderful time at the park today.,Not_Depressed
+703,Had a wonderful time at the park today.,Not_Depressed
+704,I cry for no reason almost every day.,Depressed
+705,"Today was a great day, I feel so happy!",Not_Depressed
+706,I feel so hopeless and tired all the time.,Depressed
+707,I feel so hopeless and tired all the time.,Depressed
+708,I cry for no reason almost every day.,Depressed
+709,Had a wonderful time at the park today.,Not_Depressed
+710,I feel so hopeless and tired all the time.,Depressed
+711,I'm feeling really productive this morning.,Not_Depressed
+712,Just had a delicious lunch!,Not_Depressed
+713,I just want to stay in bed and never wake up.,Depressed
+714,Had a wonderful time at the park today.,Not_Depressed
+715,Looking forward to the weekend with my friends!,Not_Depressed
+716,Life is beautiful and full of possibilities.,Not_Depressed
+717,Everything feels so heavy and meaningless.,Depressed
+718,Looking forward to the weekend with my friends!,Not_Depressed
+719,I cry for no reason almost every day.,Depressed
+720,I feel so hopeless and tired all the time.,Depressed
+721,Looking forward to the weekend with my friends!,Not_Depressed
+722,Just had a delicious lunch!,Not_Depressed
+723,Had a wonderful time at the park today.,Not_Depressed
+724,I'm so grateful for my supportive friends.,Not_Depressed
+725,I just want to stay in bed and never wake up.,Depressed
+726,Had a wonderful time at the park today.,Not_Depressed
+727,"Today was a great day, I feel so happy!",Not_Depressed
+728,Got a promotion at work today! So excited.,Not_Depressed
+729,I'm really enjoying this new book I'm reading.,Not_Depressed
+730,I just want to stay in bed and never wake up.,Depressed
+731,"Today was a great day, I feel so happy!",Not_Depressed
+732,Life is beautiful and full of possibilities.,Not_Depressed
+733,I'm so grateful for my supportive friends.,Not_Depressed
+734,I don't see any light at the end of the tunnel.,Depressed
+735,I feel so hopeless and tired all the time.,Depressed
+736,I feel like a burden to everyone around me.,Depressed
+737,Got a promotion at work today! So excited.,Not_Depressed
+738,Life is beautiful and full of possibilities.,Not_Depressed
+739,Had a wonderful time at the park today.,Not_Depressed
+740,Everything is just too much to handle right now.,Depressed
+741,I'm so grateful for my supportive friends.,Not_Depressed
+742,Got a promotion at work today! So excited.,Not_Depressed
+743,Everything is just too much to handle right now.,Depressed
+744,I'm feeling really productive this morning.,Not_Depressed
+745,Everything feels so heavy and meaningless.,Depressed
+746,Looking forward to the weekend with my friends!,Not_Depressed
+747,Just had a delicious lunch!,Not_Depressed
+748,The sun is shining and I feel energized.,Not_Depressed
+749,Everything is just too much to handle right now.,Depressed
+750,I cry for no reason almost every day.,Depressed
+751,It's hard to even get out of bed in the morning.,Depressed
+752,Got a promotion at work today! So excited.,Not_Depressed
+753,Just had a delicious lunch!,Not_Depressed
+754,I'm so grateful for my supportive friends.,Not_Depressed
+755,I feel so hopeless and tired all the time.,Depressed
+756,I've lost interest in everything I used to love.,Depressed
+757,I've lost interest in everything I used to love.,Depressed
+758,Life is beautiful and full of possibilities.,Not_Depressed
+759,I'm feeling really productive this morning.,Not_Depressed
+760,Life is beautiful and full of possibilities.,Not_Depressed
+761,It's hard to even get out of bed in the morning.,Depressed
+762,Just had a delicious lunch!,Not_Depressed
+763,Just had a delicious lunch!,Not_Depressed
+764,I feel like a burden to everyone around me.,Depressed
+765,Had a wonderful time at the park today.,Not_Depressed
+766,I'm feeling really productive this morning.,Not_Depressed
+767,The sun is shining and I feel energized.,Not_Depressed
+768,Everything is just too much to handle right now.,Depressed
+769,"Today was a great day, I feel so happy!",Not_Depressed
+770,Everything is just too much to handle right now.,Depressed
+771,I just want to stay in bed and never wake up.,Depressed
+772,Got a promotion at work today! So excited.,Not_Depressed
+773,I feel so hopeless and tired all the time.,Depressed
+774,I'm really enjoying this new book I'm reading.,Not_Depressed
+775,Looking forward to the weekend with my friends!,Not_Depressed
+776,I'm really enjoying this new book I'm reading.,Not_Depressed
+777,Got a promotion at work today! So excited.,Not_Depressed
+778,The sun is shining and I feel energized.,Not_Depressed
+779,Just had a delicious lunch!,Not_Depressed
+780,Everything is just too much to handle right now.,Depressed
+781,I'm so grateful for my supportive friends.,Not_Depressed
+782,"I feel so alone, even when I'm with people.",Depressed
+783,The sun is shining and I feel energized.,Not_Depressed
+784,I cry for no reason almost every day.,Depressed
+785,Life is beautiful and full of possibilities.,Not_Depressed
+786,I feel so hopeless and tired all the time.,Depressed
+787,"Today was a great day, I feel so happy!",Not_Depressed
+788,Everything is just too much to handle right now.,Depressed
+789,I've lost interest in everything I used to love.,Depressed
+790,"Today was a great day, I feel so happy!",Not_Depressed
+791,"I feel so alone, even when I'm with people.",Depressed
+792,It's hard to even get out of bed in the morning.,Depressed
+793,"I feel so alone, even when I'm with people.",Depressed
+794,I'm so grateful for my supportive friends.,Not_Depressed
+795,Life is beautiful and full of possibilities.,Not_Depressed
+796,I cry for no reason almost every day.,Depressed
+797,Got a promotion at work today! So excited.,Not_Depressed
+798,I've lost interest in everything I used to love.,Depressed
+799,"Today was a great day, I feel so happy!",Not_Depressed
+800,The sun is shining and I feel energized.,Not_Depressed
+801,I'm feeling really productive this morning.,Not_Depressed
+802,I feel so hopeless and tired all the time.,Depressed
+803,Everything is just too much to handle right now.,Depressed
+804,The sun is shining and I feel energized.,Not_Depressed
+805,Just had a delicious lunch!,Not_Depressed
+806,I'm so grateful for my supportive friends.,Not_Depressed
+807,I'm feeling really productive this morning.,Not_Depressed
+808,I feel like a burden to everyone around me.,Depressed
+809,Had a wonderful time at the park today.,Not_Depressed
+810,I've lost interest in everything I used to love.,Depressed
+811,Just had a delicious lunch!,Not_Depressed
+812,I've lost interest in everything I used to love.,Depressed
+813,I've lost interest in everything I used to love.,Depressed
+814,I just want to stay in bed and never wake up.,Depressed
+815,I don't see any light at the end of the tunnel.,Depressed
+816,I feel like a burden to everyone around me.,Depressed
+817,I feel like a burden to everyone around me.,Depressed
+818,I've lost interest in everything I used to love.,Depressed
+819,Everything feels so heavy and meaningless.,Depressed
+820,Just had a delicious lunch!,Not_Depressed
+821,"I feel so alone, even when I'm with people.",Depressed
+822,I feel like a burden to everyone around me.,Depressed
+823,"I feel so alone, even when I'm with people.",Depressed
+824,Looking forward to the weekend with my friends!,Not_Depressed
+825,I'm really enjoying this new book I'm reading.,Not_Depressed
+826,"I feel so alone, even when I'm with people.",Depressed
+827,Everything is just too much to handle right now.,Depressed
+828,I feel like a burden to everyone around me.,Depressed
+829,Just had a delicious lunch!,Not_Depressed
+830,I feel so hopeless and tired all the time.,Depressed
+831,I feel like a burden to everyone around me.,Depressed
+832,"I feel so alone, even when I'm with people.",Depressed
+833,I'm feeling really productive this morning.,Not_Depressed
+834,Looking forward to the weekend with my friends!,Not_Depressed
+835,Got a promotion at work today! So excited.,Not_Depressed
+836,I just want to stay in bed and never wake up.,Depressed
+837,Looking forward to the weekend with my friends!,Not_Depressed
+838,I just want to stay in bed and never wake up.,Depressed
+839,Got a promotion at work today! So excited.,Not_Depressed
+840,I've lost interest in everything I used to love.,Depressed
+841,"I feel so alone, even when I'm with people.",Depressed
+842,Got a promotion at work today! So excited.,Not_Depressed
+843,The sun is shining and I feel energized.,Not_Depressed
+844,Life is beautiful and full of possibilities.,Not_Depressed
+845,The sun is shining and I feel energized.,Not_Depressed
+846,I'm so grateful for my supportive friends.,Not_Depressed
+847,Had a wonderful time at the park today.,Not_Depressed
+848,I feel so hopeless and tired all the time.,Depressed
+849,I cry for no reason almost every day.,Depressed
+850,I feel like a burden to everyone around me.,Depressed
+851,Just had a delicious lunch!,Not_Depressed
+852,I don't see any light at the end of the tunnel.,Depressed
+853,I'm really enjoying this new book I'm reading.,Not_Depressed
+854,I'm feeling really productive this morning.,Not_Depressed
+855,I just want to stay in bed and never wake up.,Depressed
+856,I'm really enjoying this new book I'm reading.,Not_Depressed
+857,The sun is shining and I feel energized.,Not_Depressed
+858,Just had a delicious lunch!,Not_Depressed
+859,I'm so grateful for my supportive friends.,Not_Depressed
+860,I feel like a burden to everyone around me.,Depressed
+861,Had a wonderful time at the park today.,Not_Depressed
+862,Just had a delicious lunch!,Not_Depressed
+863,I cry for no reason almost every day.,Depressed
+864,Had a wonderful time at the park today.,Not_Depressed
+865,Just had a delicious lunch!,Not_Depressed
+866,The sun is shining and I feel energized.,Not_Depressed
+867,Looking forward to the weekend with my friends!,Not_Depressed
+868,I cry for no reason almost every day.,Depressed
+869,It's hard to even get out of bed in the morning.,Depressed
+870,I feel so hopeless and tired all the time.,Depressed
+871,Life is beautiful and full of possibilities.,Not_Depressed
+872,"I feel so alone, even when I'm with people.",Depressed
+873,Everything is just too much to handle right now.,Depressed
+874,I've lost interest in everything I used to love.,Depressed
+875,I feel so hopeless and tired all the time.,Depressed
+876,I don't see any light at the end of the tunnel.,Depressed
+877,Got a promotion at work today! So excited.,Not_Depressed
+878,I'm feeling really productive this morning.,Not_Depressed
+879,Everything is just too much to handle right now.,Depressed
+880,It's hard to even get out of bed in the morning.,Depressed
+881,I feel so hopeless and tired all the time.,Depressed
+882,I feel so hopeless and tired all the time.,Depressed
+883,I feel like a burden to everyone around me.,Depressed
+884,Had a wonderful time at the park today.,Not_Depressed
+885,I've lost interest in everything I used to love.,Depressed
+886,Everything feels so heavy and meaningless.,Depressed
+887,Looking forward to the weekend with my friends!,Not_Depressed
+888,Had a wonderful time at the park today.,Not_Depressed
+889,I'm feeling really productive this morning.,Not_Depressed
+890,I just want to stay in bed and never wake up.,Depressed
+891,I just want to stay in bed and never wake up.,Depressed
+892,I cry for no reason almost every day.,Depressed
+893,Got a promotion at work today! So excited.,Not_Depressed
+894,Everything is just too much to handle right now.,Depressed
+895,"I feel so alone, even when I'm with people.",Depressed
+896,"I feel so alone, even when I'm with people.",Depressed
+897,I've lost interest in everything I used to love.,Depressed
+898,Looking forward to the weekend with my friends!,Not_Depressed
+899,Life is beautiful and full of possibilities.,Not_Depressed
+900,I've lost interest in everything I used to love.,Depressed
+901,Had a wonderful time at the park today.,Not_Depressed
+902,I'm feeling really productive this morning.,Not_Depressed
+903,Everything feels so heavy and meaningless.,Depressed
+904,I cry for no reason almost every day.,Depressed
+905,Everything feels so heavy and meaningless.,Depressed
+906,I don't see any light at the end of the tunnel.,Depressed
+907,I'm so grateful for my supportive friends.,Not_Depressed
+908,"I feel so alone, even when I'm with people.",Depressed
+909,Just had a delicious lunch!,Not_Depressed
+910,I just want to stay in bed and never wake up.,Depressed
+911,I cry for no reason almost every day.,Depressed
+912,I just want to stay in bed and never wake up.,Depressed
+913,I feel so hopeless and tired all the time.,Depressed
+914,I'm feeling really productive this morning.,Not_Depressed
+915,I just want to stay in bed and never wake up.,Depressed
+916,Life is beautiful and full of possibilities.,Not_Depressed
+917,Had a wonderful time at the park today.,Not_Depressed
+918,I cry for no reason almost every day.,Depressed
+919,I'm feeling really productive this morning.,Not_Depressed
+920,I'm really enjoying this new book I'm reading.,Not_Depressed
+921,Life is beautiful and full of possibilities.,Not_Depressed
+922,I'm really enjoying this new book I'm reading.,Not_Depressed
+923,Just had a delicious lunch!,Not_Depressed
+924,The sun is shining and I feel energized.,Not_Depressed
+925,I cry for no reason almost every day.,Depressed
+926,Just had a delicious lunch!,Not_Depressed
+927,"Today was a great day, I feel so happy!",Not_Depressed
+928,I've lost interest in everything I used to love.,Depressed
+929,I cry for no reason almost every day.,Depressed
+930,I'm so grateful for my supportive friends.,Not_Depressed
+931,Looking forward to the weekend with my friends!,Not_Depressed
+932,It's hard to even get out of bed in the morning.,Depressed
+933,I'm feeling really productive this morning.,Not_Depressed
+934,I just want to stay in bed and never wake up.,Depressed
+935,I cry for no reason almost every day.,Depressed
+936,I feel so hopeless and tired all the time.,Depressed
+937,I feel so hopeless and tired all the time.,Depressed
+938,Life is beautiful and full of possibilities.,Not_Depressed
+939,I'm so grateful for my supportive friends.,Not_Depressed
+940,I cry for no reason almost every day.,Depressed
+941,Everything feels so heavy and meaningless.,Depressed
+942,I just want to stay in bed and never wake up.,Depressed
+943,Everything feels so heavy and meaningless.,Depressed
+944,I've lost interest in everything I used to love.,Depressed
+945,The sun is shining and I feel energized.,Not_Depressed
+946,I don't see any light at the end of the tunnel.,Depressed
+947,Looking forward to the weekend with my friends!,Not_Depressed
+948,I don't see any light at the end of the tunnel.,Depressed
+949,"I feel so alone, even when I'm with people.",Depressed
+950,I feel so hopeless and tired all the time.,Depressed
+951,I cry for no reason almost every day.,Depressed
+952,Had a wonderful time at the park today.,Not_Depressed
+953,The sun is shining and I feel energized.,Not_Depressed
+954,Everything feels so heavy and meaningless.,Depressed
+955,Just had a delicious lunch!,Not_Depressed
+956,Got a promotion at work today! So excited.,Not_Depressed
+957,It's hard to even get out of bed in the morning.,Depressed
+958,"Today was a great day, I feel so happy!",Not_Depressed
+959,I don't see any light at the end of the tunnel.,Depressed
+960,I'm so grateful for my supportive friends.,Not_Depressed
+961,The sun is shining and I feel energized.,Not_Depressed
+962,I feel like a burden to everyone around me.,Depressed
+963,Looking forward to the weekend with my friends!,Not_Depressed
+964,Everything feels so heavy and meaningless.,Depressed
+965,I've lost interest in everything I used to love.,Depressed
+966,Everything feels so heavy and meaningless.,Depressed
+967,It's hard to even get out of bed in the morning.,Depressed
+968,Had a wonderful time at the park today.,Not_Depressed
+969,Just had a delicious lunch!,Not_Depressed
+970,I've lost interest in everything I used to love.,Depressed
+971,Everything is just too much to handle right now.,Depressed
+972,I feel so hopeless and tired all the time.,Depressed
+973,I just want to stay in bed and never wake up.,Depressed
+974,I feel like a burden to everyone around me.,Depressed
+975,I've lost interest in everything I used to love.,Depressed
+976,I cry for no reason almost every day.,Depressed
+977,Had a wonderful time at the park today.,Not_Depressed
+978,Got a promotion at work today! So excited.,Not_Depressed
+979,I don't see any light at the end of the tunnel.,Depressed
+980,I've lost interest in everything I used to love.,Depressed
+981,Got a promotion at work today! So excited.,Not_Depressed
+982,Looking forward to the weekend with my friends!,Not_Depressed
+983,"Today was a great day, I feel so happy!",Not_Depressed
+984,Life is beautiful and full of possibilities.,Not_Depressed
+985,"Today was a great day, I feel so happy!",Not_Depressed
+986,I'm feeling really productive this morning.,Not_Depressed
+987,Got a promotion at work today! So excited.,Not_Depressed
+988,I cry for no reason almost every day.,Depressed
+989,Looking forward to the weekend with my friends!,Not_Depressed
+990,I'm really enjoying this new book I'm reading.,Not_Depressed
+991,I feel so hopeless and tired all the time.,Depressed
+992,Everything feels so heavy and meaningless.,Depressed
+993,I've lost interest in everything I used to love.,Depressed
+994,Just had a delicious lunch!,Not_Depressed
+995,I feel like a burden to everyone around me.,Depressed
+996,I'm feeling really productive this morning.,Not_Depressed
+997,Got a promotion at work today! So excited.,Not_Depressed
+998,Had a wonderful time at the park today.,Not_Depressed
+999,I'm really enjoying this new book I'm reading.,Not_Depressed
+1000,"Today was a great day, I feel so happy!",Not_Depressed
+1001,Got a promotion at work today! So excited.,Not_Depressed
+1002,"I feel so alone, even when I'm with people.",Depressed
+1003,I feel like a burden to everyone around me.,Depressed
+1004,It's hard to even get out of bed in the morning.,Depressed
+1005,Everything feels so heavy and meaningless.,Depressed
+1006,Had a wonderful time at the park today.,Not_Depressed
+1007,Got a promotion at work today! So excited.,Not_Depressed
+1008,Had a wonderful time at the park today.,Not_Depressed
+1009,I cry for no reason almost every day.,Depressed
+1010,Looking forward to the weekend with my friends!,Not_Depressed
+1011,Everything is just too much to handle right now.,Depressed
+1012,I've lost interest in everything I used to love.,Depressed
+1013,Everything is just too much to handle right now.,Depressed
+1014,I'm feeling really productive this morning.,Not_Depressed
+1015,I'm really enjoying this new book I'm reading.,Not_Depressed
+1016,I'm so grateful for my supportive friends.,Not_Depressed
+1017,Got a promotion at work today! So excited.,Not_Depressed
+1018,I cry for no reason almost every day.,Depressed
+1019,Got a promotion at work today! So excited.,Not_Depressed
+1020,I'm really enjoying this new book I'm reading.,Not_Depressed
+1021,I just want to stay in bed and never wake up.,Depressed
+1022,I'm feeling really productive this morning.,Not_Depressed
+1023,I'm feeling really productive this morning.,Not_Depressed
+1024,Looking forward to the weekend with my friends!,Not_Depressed
+1025,I feel so hopeless and tired all the time.,Depressed
+1026,I don't see any light at the end of the tunnel.,Depressed
+1027,Got a promotion at work today! So excited.,Not_Depressed
+1028,It's hard to even get out of bed in the morning.,Depressed
+1029,I don't see any light at the end of the tunnel.,Depressed
+1030,I feel like a burden to everyone around me.,Depressed
+1031,"Today was a great day, I feel so happy!",Not_Depressed
+1032,I've lost interest in everything I used to love.,Depressed
+1033,Had a wonderful time at the park today.,Not_Depressed
+1034,I feel so hopeless and tired all the time.,Depressed
+1035,I'm really enjoying this new book I'm reading.,Not_Depressed
+1036,I don't see any light at the end of the tunnel.,Depressed
+1037,It's hard to even get out of bed in the morning.,Depressed
+1038,"Today was a great day, I feel so happy!",Not_Depressed
+1039,"I feel so alone, even when I'm with people.",Depressed
+1040,"Today was a great day, I feel so happy!",Not_Depressed
+1041,Everything is just too much to handle right now.,Depressed
+1042,"Today was a great day, I feel so happy!",Not_Depressed
+1043,I feel so hopeless and tired all the time.,Depressed
+1044,I'm really enjoying this new book I'm reading.,Not_Depressed
+1045,I feel so hopeless and tired all the time.,Depressed
+1046,The sun is shining and I feel energized.,Not_Depressed
+1047,I'm so grateful for my supportive friends.,Not_Depressed
+1048,"Today was a great day, I feel so happy!",Not_Depressed
+1049,Just had a delicious lunch!,Not_Depressed
+1050,I just want to stay in bed and never wake up.,Depressed
+1051,Life is beautiful and full of possibilities.,Not_Depressed
+1052,The sun is shining and I feel energized.,Not_Depressed
+1053,Looking forward to the weekend with my friends!,Not_Depressed
+1054,I just want to stay in bed and never wake up.,Depressed
+1055,Life is beautiful and full of possibilities.,Not_Depressed
+1056,I'm feeling really productive this morning.,Not_Depressed
+1057,I just want to stay in bed and never wake up.,Depressed
+1058,I'm so grateful for my supportive friends.,Not_Depressed
+1059,I don't see any light at the end of the tunnel.,Depressed
+1060,I feel like a burden to everyone around me.,Depressed
+1061,Life is beautiful and full of possibilities.,Not_Depressed
+1062,I feel so hopeless and tired all the time.,Depressed
+1063,Looking forward to the weekend with my friends!,Not_Depressed
+1064,I cry for no reason almost every day.,Depressed
+1065,I feel so hopeless and tired all the time.,Depressed
+1066,Life is beautiful and full of possibilities.,Not_Depressed
+1067,Everything is just too much to handle right now.,Depressed
+1068,I cry for no reason almost every day.,Depressed
+1069,Everything feels so heavy and meaningless.,Depressed
+1070,I'm really enjoying this new book I'm reading.,Not_Depressed
+1071,I'm feeling really productive this morning.,Not_Depressed
+1072,Everything is just too much to handle right now.,Depressed
+1073,I just want to stay in bed and never wake up.,Depressed
+1074,Everything feels so heavy and meaningless.,Depressed
+1075,Everything is just too much to handle right now.,Depressed
+1076,I'm feeling really productive this morning.,Not_Depressed
+1077,The sun is shining and I feel energized.,Not_Depressed
+1078,I'm so grateful for my supportive friends.,Not_Depressed
+1079,Looking forward to the weekend with my friends!,Not_Depressed
+1080,I'm really enjoying this new book I'm reading.,Not_Depressed
+1081,Everything is just too much to handle right now.,Depressed
+1082,I cry for no reason almost every day.,Depressed
+1083,I'm really enjoying this new book I'm reading.,Not_Depressed
+1084,I just want to stay in bed and never wake up.,Depressed
+1085,Had a wonderful time at the park today.,Not_Depressed
+1086,Everything feels so heavy and meaningless.,Depressed
+1087,I don't see any light at the end of the tunnel.,Depressed
+1088,I'm so grateful for my supportive friends.,Not_Depressed
+1089,Got a promotion at work today! So excited.,Not_Depressed
+1090,Had a wonderful time at the park today.,Not_Depressed
+1091,Everything feels so heavy and meaningless.,Depressed
+1092,I've lost interest in everything I used to love.,Depressed
+1093,I don't see any light at the end of the tunnel.,Depressed
+1094,Looking forward to the weekend with my friends!,Not_Depressed
+1095,It's hard to even get out of bed in the morning.,Depressed
+1096,Life is beautiful and full of possibilities.,Not_Depressed
+1097,I just want to stay in bed and never wake up.,Depressed
+1098,I feel like a burden to everyone around me.,Depressed
+1099,Got a promotion at work today! So excited.,Not_Depressed
+1100,I feel so hopeless and tired all the time.,Depressed
+1101,Life is beautiful and full of possibilities.,Not_Depressed
+1102,Everything feels so heavy and meaningless.,Depressed
+1103,Got a promotion at work today! So excited.,Not_Depressed
+1104,I don't see any light at the end of the tunnel.,Depressed
+1105,Everything feels so heavy and meaningless.,Depressed
+1106,I feel so hopeless and tired all the time.,Depressed
+1107,Had a wonderful time at the park today.,Not_Depressed
+1108,I'm feeling really productive this morning.,Not_Depressed
+1109,I cry for no reason almost every day.,Depressed
+1110,"Today was a great day, I feel so happy!",Not_Depressed
+1111,Got a promotion at work today! So excited.,Not_Depressed
+1112,"I feel so alone, even when I'm with people.",Depressed
+1113,Life is beautiful and full of possibilities.,Not_Depressed
+1114,I feel like a burden to everyone around me.,Depressed
+1115,I cry for no reason almost every day.,Depressed
+1116,Got a promotion at work today! So excited.,Not_Depressed
+1117,"I feel so alone, even when I'm with people.",Depressed
+1118,I'm feeling really productive this morning.,Not_Depressed
+1119,I'm feeling really productive this morning.,Not_Depressed
+1120,I don't see any light at the end of the tunnel.,Depressed
+1121,"I feel so alone, even when I'm with people.",Depressed
+1122,Got a promotion at work today! So excited.,Not_Depressed
+1123,"Today was a great day, I feel so happy!",Not_Depressed
+1124,"Today was a great day, I feel so happy!",Not_Depressed
+1125,The sun is shining and I feel energized.,Not_Depressed
+1126,I'm so grateful for my supportive friends.,Not_Depressed
+1127,Everything feels so heavy and meaningless.,Depressed
+1128,I just want to stay in bed and never wake up.,Depressed
+1129,I'm really enjoying this new book I'm reading.,Not_Depressed
+1130,I don't see any light at the end of the tunnel.,Depressed
+1131,Looking forward to the weekend with my friends!,Not_Depressed
+1132,Just had a delicious lunch!,Not_Depressed
+1133,The sun is shining and I feel energized.,Not_Depressed
+1134,Life is beautiful and full of possibilities.,Not_Depressed
+1135,I'm really enjoying this new book I'm reading.,Not_Depressed
+1136,I'm really enjoying this new book I'm reading.,Not_Depressed
+1137,I don't see any light at the end of the tunnel.,Depressed
+1138,I'm so grateful for my supportive friends.,Not_Depressed
+1139,Just had a delicious lunch!,Not_Depressed
+1140,Had a wonderful time at the park today.,Not_Depressed
+1141,I don't see any light at the end of the tunnel.,Depressed
+1142,The sun is shining and I feel energized.,Not_Depressed
+1143,Got a promotion at work today! So excited.,Not_Depressed
+1144,I'm feeling really productive this morning.,Not_Depressed
+1145,Everything feels so heavy and meaningless.,Depressed
+1146,I feel like a burden to everyone around me.,Depressed
+1147,It's hard to even get out of bed in the morning.,Depressed
+1148,Just had a delicious lunch!,Not_Depressed
+1149,Looking forward to the weekend with my friends!,Not_Depressed
+1150,I'm so grateful for my supportive friends.,Not_Depressed
+1151,I don't see any light at the end of the tunnel.,Depressed
+1152,Just had a delicious lunch!,Not_Depressed
+1153,Everything is just too much to handle right now.,Depressed
+1154,I don't see any light at the end of the tunnel.,Depressed
+1155,"Today was a great day, I feel so happy!",Not_Depressed
+1156,"I feel so alone, even when I'm with people.",Depressed
+1157,It's hard to even get out of bed in the morning.,Depressed
+1158,The sun is shining and I feel energized.,Not_Depressed
+1159,I've lost interest in everything I used to love.,Depressed
+1160,Looking forward to the weekend with my friends!,Not_Depressed
+1161,Everything feels so heavy and meaningless.,Depressed
+1162,Had a wonderful time at the park today.,Not_Depressed
+1163,It's hard to even get out of bed in the morning.,Depressed
+1164,I just want to stay in bed and never wake up.,Depressed
+1165,I'm so grateful for my supportive friends.,Not_Depressed
+1166,The sun is shining and I feel energized.,Not_Depressed
+1167,Just had a delicious lunch!,Not_Depressed
+1168,"I feel so alone, even when I'm with people.",Depressed
+1169,Looking forward to the weekend with my friends!,Not_Depressed
+1170,I cry for no reason almost every day.,Depressed
+1171,I just want to stay in bed and never wake up.,Depressed
+1172,"I feel so alone, even when I'm with people.",Depressed
+1173,I feel so hopeless and tired all the time.,Depressed
+1174,Life is beautiful and full of possibilities.,Not_Depressed
+1175,Everything is just too much to handle right now.,Depressed
+1176,Had a wonderful time at the park today.,Not_Depressed
+1177,Life is beautiful and full of possibilities.,Not_Depressed
+1178,I don't see any light at the end of the tunnel.,Depressed
+1179,Life is beautiful and full of possibilities.,Not_Depressed
+1180,The sun is shining and I feel energized.,Not_Depressed
+1181,Got a promotion at work today! So excited.,Not_Depressed
+1182,I feel so hopeless and tired all the time.,Depressed
+1183,The sun is shining and I feel energized.,Not_Depressed
+1184,I just want to stay in bed and never wake up.,Depressed
+1185,Life is beautiful and full of possibilities.,Not_Depressed
+1186,I'm really enjoying this new book I'm reading.,Not_Depressed
+1187,I feel so hopeless and tired all the time.,Depressed
+1188,Looking forward to the weekend with my friends!,Not_Depressed
+1189,I'm feeling really productive this morning.,Not_Depressed
+1190,I'm so grateful for my supportive friends.,Not_Depressed
+1191,I cry for no reason almost every day.,Depressed
+1192,I'm feeling really productive this morning.,Not_Depressed
+1193,"I feel so alone, even when I'm with people.",Depressed
+1194,I've lost interest in everything I used to love.,Depressed
+1195,Got a promotion at work today! So excited.,Not_Depressed
+1196,Everything feels so heavy and meaningless.,Depressed
+1197,Life is beautiful and full of possibilities.,Not_Depressed
+1198,The sun is shining and I feel energized.,Not_Depressed
+1199,I'm really enjoying this new book I'm reading.,Not_Depressed
+1200,The sun is shining and I feel energized.,Not_Depressed
+1201,I'm really enjoying this new book I'm reading.,Not_Depressed
+1202,Had a wonderful time at the park today.,Not_Depressed
+1203,"I feel so alone, even when I'm with people.",Depressed
+1204,I've lost interest in everything I used to love.,Depressed
+1205,Looking forward to the weekend with my friends!,Not_Depressed
+1206,I just want to stay in bed and never wake up.,Depressed
+1207,Got a promotion at work today! So excited.,Not_Depressed
+1208,"I feel so alone, even when I'm with people.",Depressed
+1209,Had a wonderful time at the park today.,Not_Depressed
+1210,Looking forward to the weekend with my friends!,Not_Depressed
+1211,I'm feeling really productive this morning.,Not_Depressed
+1212,Life is beautiful and full of possibilities.,Not_Depressed
+1213,Life is beautiful and full of possibilities.,Not_Depressed
+1214,I'm really enjoying this new book I'm reading.,Not_Depressed
+1215,I feel like a burden to everyone around me.,Depressed
+1216,Just had a delicious lunch!,Not_Depressed
+1217,Got a promotion at work today! So excited.,Not_Depressed
+1218,I don't see any light at the end of the tunnel.,Depressed
+1219,Looking forward to the weekend with my friends!,Not_Depressed
+1220,Life is beautiful and full of possibilities.,Not_Depressed
+1221,I cry for no reason almost every day.,Depressed
+1222,I'm so grateful for my supportive friends.,Not_Depressed
+1223,I don't see any light at the end of the tunnel.,Depressed
+1224,The sun is shining and I feel energized.,Not_Depressed
+1225,I've lost interest in everything I used to love.,Depressed
+1226,Had a wonderful time at the park today.,Not_Depressed
+1227,I just want to stay in bed and never wake up.,Depressed
+1228,It's hard to even get out of bed in the morning.,Depressed
+1229,Got a promotion at work today! So excited.,Not_Depressed
+1230,I cry for no reason almost every day.,Depressed
+1231,It's hard to even get out of bed in the morning.,Depressed
+1232,I don't see any light at the end of the tunnel.,Depressed
+1233,I feel like a burden to everyone around me.,Depressed
+1234,I feel like a burden to everyone around me.,Depressed
+1235,Looking forward to the weekend with my friends!,Not_Depressed
+1236,Everything feels so heavy and meaningless.,Depressed
+1237,"Today was a great day, I feel so happy!",Not_Depressed
+1238,I don't see any light at the end of the tunnel.,Depressed
+1239,Everything feels so heavy and meaningless.,Depressed
+1240,The sun is shining and I feel energized.,Not_Depressed
+1241,I feel like a burden to everyone around me.,Depressed
+1242,I feel like a burden to everyone around me.,Depressed
+1243,I don't see any light at the end of the tunnel.,Depressed
+1244,Looking forward to the weekend with my friends!,Not_Depressed
+1245,I'm really enjoying this new book I'm reading.,Not_Depressed
+1246,Got a promotion at work today! So excited.,Not_Depressed
+1247,Everything is just too much to handle right now.,Depressed
+1248,Everything is just too much to handle right now.,Depressed
+1249,I've lost interest in everything I used to love.,Depressed
+1250,"I feel so alone, even when I'm with people.",Depressed
+1251,Got a promotion at work today! So excited.,Not_Depressed
+1252,Got a promotion at work today! So excited.,Not_Depressed
+1253,I've lost interest in everything I used to love.,Depressed
+1254,Just had a delicious lunch!,Not_Depressed
+1255,Looking forward to the weekend with my friends!,Not_Depressed
+1256,I've lost interest in everything I used to love.,Depressed
+1257,Just had a delicious lunch!,Not_Depressed
+1258,The sun is shining and I feel energized.,Not_Depressed
+1259,"Today was a great day, I feel so happy!",Not_Depressed
+1260,Had a wonderful time at the park today.,Not_Depressed
+1261,I don't see any light at the end of the tunnel.,Depressed
+1262,I feel like a burden to everyone around me.,Depressed
+1263,Had a wonderful time at the park today.,Not_Depressed
+1264,"Today was a great day, I feel so happy!",Not_Depressed
+1265,I've lost interest in everything I used to love.,Depressed
+1266,I feel like a burden to everyone around me.,Depressed
+1267,I've lost interest in everything I used to love.,Depressed
+1268,I'm really enjoying this new book I'm reading.,Not_Depressed
+1269,I feel like a burden to everyone around me.,Depressed
+1270,The sun is shining and I feel energized.,Not_Depressed
+1271,I'm so grateful for my supportive friends.,Not_Depressed
+1272,I just want to stay in bed and never wake up.,Depressed
+1273,It's hard to even get out of bed in the morning.,Depressed
+1274,I feel so hopeless and tired all the time.,Depressed
+1275,I'm so grateful for my supportive friends.,Not_Depressed
+1276,I feel like a burden to everyone around me.,Depressed
+1277,I don't see any light at the end of the tunnel.,Depressed
+1278,"Today was a great day, I feel so happy!",Not_Depressed
+1279,"I feel so alone, even when I'm with people.",Depressed
+1280,Looking forward to the weekend with my friends!,Not_Depressed
+1281,I'm so grateful for my supportive friends.,Not_Depressed
+1282,I've lost interest in everything I used to love.,Depressed
+1283,I'm so grateful for my supportive friends.,Not_Depressed
+1284,I cry for no reason almost every day.,Depressed
+1285,I've lost interest in everything I used to love.,Depressed
+1286,I'm really enjoying this new book I'm reading.,Not_Depressed
+1287,I just want to stay in bed and never wake up.,Depressed
+1288,Everything is just too much to handle right now.,Depressed
+1289,Life is beautiful and full of possibilities.,Not_Depressed
+1290,I just want to stay in bed and never wake up.,Depressed
+1291,Had a wonderful time at the park today.,Not_Depressed
+1292,Life is beautiful and full of possibilities.,Not_Depressed
+1293,I'm so grateful for my supportive friends.,Not_Depressed
+1294,I'm so grateful for my supportive friends.,Not_Depressed
+1295,"Today was a great day, I feel so happy!",Not_Depressed
+1296,Everything feels so heavy and meaningless.,Depressed
+1297,I'm feeling really productive this morning.,Not_Depressed
+1298,I don't see any light at the end of the tunnel.,Depressed
+1299,Got a promotion at work today! So excited.,Not_Depressed
+1300,Life is beautiful and full of possibilities.,Not_Depressed
+1301,"Today was a great day, I feel so happy!",Not_Depressed
+1302,Looking forward to the weekend with my friends!,Not_Depressed
+1303,I've lost interest in everything I used to love.,Depressed
+1304,I just want to stay in bed and never wake up.,Depressed
+1305,I've lost interest in everything I used to love.,Depressed
+1306,Had a wonderful time at the park today.,Not_Depressed
+1307,I feel like a burden to everyone around me.,Depressed
+1308,I feel like a burden to everyone around me.,Depressed
+1309,I'm so grateful for my supportive friends.,Not_Depressed
+1310,Looking forward to the weekend with my friends!,Not_Depressed
+1311,I feel like a burden to everyone around me.,Depressed
+1312,Got a promotion at work today! So excited.,Not_Depressed
+1313,I'm really enjoying this new book I'm reading.,Not_Depressed
+1314,Everything feels so heavy and meaningless.,Depressed
+1315,The sun is shining and I feel energized.,Not_Depressed
+1316,Got a promotion at work today! So excited.,Not_Depressed
+1317,I feel so hopeless and tired all the time.,Depressed
+1318,I've lost interest in everything I used to love.,Depressed
+1319,I don't see any light at the end of the tunnel.,Depressed
+1320,I feel so hopeless and tired all the time.,Depressed
+1321,I feel so hopeless and tired all the time.,Depressed
+1322,Just had a delicious lunch!,Not_Depressed
+1323,Everything feels so heavy and meaningless.,Depressed
+1324,Everything feels so heavy and meaningless.,Depressed
+1325,It's hard to even get out of bed in the morning.,Depressed
+1326,I just want to stay in bed and never wake up.,Depressed
+1327,I'm so grateful for my supportive friends.,Not_Depressed
+1328,"I feel so alone, even when I'm with people.",Depressed
+1329,The sun is shining and I feel energized.,Not_Depressed
+1330,Looking forward to the weekend with my friends!,Not_Depressed
+1331,I just want to stay in bed and never wake up.,Depressed
+1332,I feel like a burden to everyone around me.,Depressed
+1333,I'm so grateful for my supportive friends.,Not_Depressed
+1334,Had a wonderful time at the park today.,Not_Depressed
+1335,"Today was a great day, I feel so happy!",Not_Depressed
+1336,Had a wonderful time at the park today.,Not_Depressed
+1337,"I feel so alone, even when I'm with people.",Depressed
+1338,"I feel so alone, even when I'm with people.",Depressed
+1339,Everything feels so heavy and meaningless.,Depressed
+1340,Just had a delicious lunch!,Not_Depressed
+1341,The sun is shining and I feel energized.,Not_Depressed
+1342,I just want to stay in bed and never wake up.,Depressed
+1343,Looking forward to the weekend with my friends!,Not_Depressed
+1344,Everything is just too much to handle right now.,Depressed
+1345,The sun is shining and I feel energized.,Not_Depressed
+1346,I'm so grateful for my supportive friends.,Not_Depressed
+1347,Got a promotion at work today! So excited.,Not_Depressed
+1348,Everything is just too much to handle right now.,Depressed
+1349,I don't see any light at the end of the tunnel.,Depressed
+1350,I'm really enjoying this new book I'm reading.,Not_Depressed
+1351,Got a promotion at work today! So excited.,Not_Depressed
+1352,It's hard to even get out of bed in the morning.,Depressed
+1353,Just had a delicious lunch!,Not_Depressed
+1354,I'm so grateful for my supportive friends.,Not_Depressed
+1355,Everything feels so heavy and meaningless.,Depressed
+1356,"I feel so alone, even when I'm with people.",Depressed
+1357,I don't see any light at the end of the tunnel.,Depressed
+1358,Everything feels so heavy and meaningless.,Depressed
+1359,I cry for no reason almost every day.,Depressed
+1360,I'm feeling really productive this morning.,Not_Depressed
+1361,I'm feeling really productive this morning.,Not_Depressed
+1362,The sun is shining and I feel energized.,Not_Depressed
+1363,I cry for no reason almost every day.,Depressed
+1364,Life is beautiful and full of possibilities.,Not_Depressed
+1365,I've lost interest in everything I used to love.,Depressed
+1366,Looking forward to the weekend with my friends!,Not_Depressed
+1367,Got a promotion at work today! So excited.,Not_Depressed
+1368,I cry for no reason almost every day.,Depressed
+1369,I'm really enjoying this new book I'm reading.,Not_Depressed
+1370,I feel so hopeless and tired all the time.,Depressed
+1371,"Today was a great day, I feel so happy!",Not_Depressed
+1372,It's hard to even get out of bed in the morning.,Depressed
+1373,I cry for no reason almost every day.,Depressed
+1374,Looking forward to the weekend with my friends!,Not_Depressed
+1375,I'm really enjoying this new book I'm reading.,Not_Depressed
+1376,Everything is just too much to handle right now.,Depressed
+1377,I'm really enjoying this new book I'm reading.,Not_Depressed
+1378,I've lost interest in everything I used to love.,Depressed
+1379,Got a promotion at work today! So excited.,Not_Depressed
+1380,Looking forward to the weekend with my friends!,Not_Depressed
+1381,Had a wonderful time at the park today.,Not_Depressed
+1382,It's hard to even get out of bed in the morning.,Depressed
+1383,Life is beautiful and full of possibilities.,Not_Depressed
+1384,Life is beautiful and full of possibilities.,Not_Depressed
+1385,I just want to stay in bed and never wake up.,Depressed
+1386,I feel so hopeless and tired all the time.,Depressed
+1387,Just had a delicious lunch!,Not_Depressed
+1388,I don't see any light at the end of the tunnel.,Depressed
+1389,I'm feeling really productive this morning.,Not_Depressed
+1390,I've lost interest in everything I used to love.,Depressed
+1391,I feel like a burden to everyone around me.,Depressed
+1392,I'm really enjoying this new book I'm reading.,Not_Depressed
+1393,I just want to stay in bed and never wake up.,Depressed
+1394,I don't see any light at the end of the tunnel.,Depressed
+1395,I feel like a burden to everyone around me.,Depressed
+1396,Life is beautiful and full of possibilities.,Not_Depressed
+1397,"Today was a great day, I feel so happy!",Not_Depressed
+1398,I feel like a burden to everyone around me.,Depressed
+1399,The sun is shining and I feel energized.,Not_Depressed
+1400,I just want to stay in bed and never wake up.,Depressed
+1401,Everything feels so heavy and meaningless.,Depressed
+1402,I've lost interest in everything I used to love.,Depressed
+1403,I cry for no reason almost every day.,Depressed
+1404,I just want to stay in bed and never wake up.,Depressed
+1405,Just had a delicious lunch!,Not_Depressed
+1406,"Today was a great day, I feel so happy!",Not_Depressed
+1407,I feel so hopeless and tired all the time.,Depressed
+1408,I've lost interest in everything I used to love.,Depressed
+1409,I feel so hopeless and tired all the time.,Depressed
+1410,Had a wonderful time at the park today.,Not_Depressed
+1411,Got a promotion at work today! So excited.,Not_Depressed
+1412,Everything is just too much to handle right now.,Depressed
+1413,I cry for no reason almost every day.,Depressed
+1414,Looking forward to the weekend with my friends!,Not_Depressed
+1415,I feel like a burden to everyone around me.,Depressed
+1416,I don't see any light at the end of the tunnel.,Depressed
+1417,It's hard to even get out of bed in the morning.,Depressed
+1418,I don't see any light at the end of the tunnel.,Depressed
+1419,It's hard to even get out of bed in the morning.,Depressed
+1420,I feel like a burden to everyone around me.,Depressed
+1421,I feel like a burden to everyone around me.,Depressed
+1422,Everything feels so heavy and meaningless.,Depressed
+1423,I feel like a burden to everyone around me.,Depressed
+1424,It's hard to even get out of bed in the morning.,Depressed
+1425,I don't see any light at the end of the tunnel.,Depressed
+1426,Everything is just too much to handle right now.,Depressed
+1427,I feel so hopeless and tired all the time.,Depressed
+1428,Everything feels so heavy and meaningless.,Depressed
+1429,I'm feeling really productive this morning.,Not_Depressed
+1430,"I feel so alone, even when I'm with people.",Depressed
+1431,Had a wonderful time at the park today.,Not_Depressed
+1432,Everything is just too much to handle right now.,Depressed
+1433,I'm really enjoying this new book I'm reading.,Not_Depressed
+1434,I'm feeling really productive this morning.,Not_Depressed
+1435,Everything feels so heavy and meaningless.,Depressed
+1436,I feel so hopeless and tired all the time.,Depressed
+1437,Life is beautiful and full of possibilities.,Not_Depressed
+1438,I feel like a burden to everyone around me.,Depressed
+1439,Life is beautiful and full of possibilities.,Not_Depressed
+1440,I've lost interest in everything I used to love.,Depressed
+1441,I'm feeling really productive this morning.,Not_Depressed
+1442,I'm so grateful for my supportive friends.,Not_Depressed
+1443,I feel so hopeless and tired all the time.,Depressed
+1444,The sun is shining and I feel energized.,Not_Depressed
+1445,I cry for no reason almost every day.,Depressed
+1446,"I feel so alone, even when I'm with people.",Depressed
+1447,"I feel so alone, even when I'm with people.",Depressed
+1448,Everything feels so heavy and meaningless.,Depressed
+1449,I'm so grateful for my supportive friends.,Not_Depressed
+1450,It's hard to even get out of bed in the morning.,Depressed
+1451,Had a wonderful time at the park today.,Not_Depressed
+1452,Everything is just too much to handle right now.,Depressed
+1453,I'm so grateful for my supportive friends.,Not_Depressed
+1454,I'm so grateful for my supportive friends.,Not_Depressed
+1455,"I feel so alone, even when I'm with people.",Depressed
+1456,I'm really enjoying this new book I'm reading.,Not_Depressed
+1457,Just had a delicious lunch!,Not_Depressed
+1458,I've lost interest in everything I used to love.,Depressed
+1459,I just want to stay in bed and never wake up.,Depressed
+1460,I'm so grateful for my supportive friends.,Not_Depressed
+1461,I'm feeling really productive this morning.,Not_Depressed
+1462,Everything is just too much to handle right now.,Depressed
+1463,I'm really enjoying this new book I'm reading.,Not_Depressed
+1464,Looking forward to the weekend with my friends!,Not_Depressed
+1465,I cry for no reason almost every day.,Depressed
+1466,Just had a delicious lunch!,Not_Depressed
+1467,I feel like a burden to everyone around me.,Depressed
+1468,I've lost interest in everything I used to love.,Depressed
+1469,I feel like a burden to everyone around me.,Depressed
+1470,I cry for no reason almost every day.,Depressed
+1471,Looking forward to the weekend with my friends!,Not_Depressed
+1472,I feel so hopeless and tired all the time.,Depressed
+1473,I've lost interest in everything I used to love.,Depressed
+1474,Life is beautiful and full of possibilities.,Not_Depressed
+1475,I just want to stay in bed and never wake up.,Depressed
+1476,The sun is shining and I feel energized.,Not_Depressed
+1477,The sun is shining and I feel energized.,Not_Depressed
+1478,Life is beautiful and full of possibilities.,Not_Depressed
+1479,Got a promotion at work today! So excited.,Not_Depressed
+1480,Looking forward to the weekend with my friends!,Not_Depressed
+1481,Everything feels so heavy and meaningless.,Depressed
+1482,"Today was a great day, I feel so happy!",Not_Depressed
+1483,I feel like a burden to everyone around me.,Depressed
+1484,Life is beautiful and full of possibilities.,Not_Depressed
+1485,Everything feels so heavy and meaningless.,Depressed
+1486,I feel like a burden to everyone around me.,Depressed
+1487,"I feel so alone, even when I'm with people.",Depressed
+1488,Had a wonderful time at the park today.,Not_Depressed
+1489,I just want to stay in bed and never wake up.,Depressed
+1490,I cry for no reason almost every day.,Depressed
+1491,Everything is just too much to handle right now.,Depressed
+1492,"I feel so alone, even when I'm with people.",Depressed
+1493,It's hard to even get out of bed in the morning.,Depressed
+1494,I just want to stay in bed and never wake up.,Depressed
+1495,I feel so hopeless and tired all the time.,Depressed
+1496,The sun is shining and I feel energized.,Not_Depressed
+1497,I'm feeling really productive this morning.,Not_Depressed
+1498,I've lost interest in everything I used to love.,Depressed
+1499,I've lost interest in everything I used to love.,Depressed
+1500,I'm so grateful for my supportive friends.,Not_Depressed
+1501,It's hard to even get out of bed in the morning.,Depressed
+1502,Just had a delicious lunch!,Not_Depressed
+1503,Looking forward to the weekend with my friends!,Not_Depressed
+1504,I don't see any light at the end of the tunnel.,Depressed
+1505,I've lost interest in everything I used to love.,Depressed
+1506,"I feel so alone, even when I'm with people.",Depressed
+1507,I cry for no reason almost every day.,Depressed
+1508,"Today was a great day, I feel so happy!",Not_Depressed
+1509,"I feel so alone, even when I'm with people.",Depressed
+1510,I just want to stay in bed and never wake up.,Depressed
+1511,I'm feeling really productive this morning.,Not_Depressed
+1512,Just had a delicious lunch!,Not_Depressed
+1513,I'm really enjoying this new book I'm reading.,Not_Depressed
+1514,I'm really enjoying this new book I'm reading.,Not_Depressed
+1515,I feel like a burden to everyone around me.,Depressed
+1516,I feel so hopeless and tired all the time.,Depressed
+1517,I feel so hopeless and tired all the time.,Depressed
+1518,I'm feeling really productive this morning.,Not_Depressed
+1519,Life is beautiful and full of possibilities.,Not_Depressed
+1520,Life is beautiful and full of possibilities.,Not_Depressed
+1521,It's hard to even get out of bed in the morning.,Depressed
+1522,I feel so hopeless and tired all the time.,Depressed
+1523,I don't see any light at the end of the tunnel.,Depressed
+1524,Just had a delicious lunch!,Not_Depressed
+1525,Got a promotion at work today! So excited.,Not_Depressed
+1526,Everything feels so heavy and meaningless.,Depressed
+1527,I just want to stay in bed and never wake up.,Depressed
+1528,Had a wonderful time at the park today.,Not_Depressed
+1529,I'm feeling really productive this morning.,Not_Depressed
+1530,Got a promotion at work today! So excited.,Not_Depressed
+1531,I feel like a burden to everyone around me.,Depressed
+1532,Everything feels so heavy and meaningless.,Depressed
+1533,I'm really enjoying this new book I'm reading.,Not_Depressed
+1534,Everything is just too much to handle right now.,Depressed
+1535,I'm feeling really productive this morning.,Not_Depressed
+1536,I just want to stay in bed and never wake up.,Depressed
+1537,I'm so grateful for my supportive friends.,Not_Depressed
+1538,I don't see any light at the end of the tunnel.,Depressed
+1539,I'm really enjoying this new book I'm reading.,Not_Depressed
+1540,I just want to stay in bed and never wake up.,Depressed
+1541,I feel so hopeless and tired all the time.,Depressed
+1542,I've lost interest in everything I used to love.,Depressed
+1543,"I feel so alone, even when I'm with people.",Depressed
+1544,I cry for no reason almost every day.,Depressed
+1545,Just had a delicious lunch!,Not_Depressed
+1546,It's hard to even get out of bed in the morning.,Depressed
+1547,Had a wonderful time at the park today.,Not_Depressed
+1548,The sun is shining and I feel energized.,Not_Depressed
+1549,I'm feeling really productive this morning.,Not_Depressed
+1550,Everything is just too much to handle right now.,Depressed
+1551,"I feel so alone, even when I'm with people.",Depressed
+1552,I've lost interest in everything I used to love.,Depressed
+1553,"Today was a great day, I feel so happy!",Not_Depressed
+1554,The sun is shining and I feel energized.,Not_Depressed
+1555,"I feel so alone, even when I'm with people.",Depressed
+1556,I cry for no reason almost every day.,Depressed
+1557,I feel like a burden to everyone around me.,Depressed
+1558,Just had a delicious lunch!,Not_Depressed
+1559,I'm feeling really productive this morning.,Not_Depressed
+1560,I don't see any light at the end of the tunnel.,Depressed
+1561,I feel like a burden to everyone around me.,Depressed
+1562,Life is beautiful and full of possibilities.,Not_Depressed
+1563,"Today was a great day, I feel so happy!",Not_Depressed
+1564,"Today was a great day, I feel so happy!",Not_Depressed
+1565,It's hard to even get out of bed in the morning.,Depressed
+1566,I don't see any light at the end of the tunnel.,Depressed
+1567,Had a wonderful time at the park today.,Not_Depressed
+1568,The sun is shining and I feel energized.,Not_Depressed
+1569,I've lost interest in everything I used to love.,Depressed
+1570,The sun is shining and I feel energized.,Not_Depressed
+1571,I cry for no reason almost every day.,Depressed
+1572,I'm really enjoying this new book I'm reading.,Not_Depressed
+1573,I don't see any light at the end of the tunnel.,Depressed
+1574,I feel so hopeless and tired all the time.,Depressed
+1575,Life is beautiful and full of possibilities.,Not_Depressed
+1576,I cry for no reason almost every day.,Depressed
+1577,Everything feels so heavy and meaningless.,Depressed
+1578,Looking forward to the weekend with my friends!,Not_Depressed
+1579,Everything feels so heavy and meaningless.,Depressed
+1580,I'm feeling really productive this morning.,Not_Depressed
+1581,Everything feels so heavy and meaningless.,Depressed
+1582,I just want to stay in bed and never wake up.,Depressed
+1583,I'm so grateful for my supportive friends.,Not_Depressed
+1584,Everything is just too much to handle right now.,Depressed
+1585,I'm really enjoying this new book I'm reading.,Not_Depressed
+1586,"I feel so alone, even when I'm with people.",Depressed
+1587,Looking forward to the weekend with my friends!,Not_Depressed
+1588,The sun is shining and I feel energized.,Not_Depressed
+1589,Looking forward to the weekend with my friends!,Not_Depressed
+1590,I cry for no reason almost every day.,Depressed
+1591,Everything is just too much to handle right now.,Depressed
+1592,I've lost interest in everything I used to love.,Depressed
+1593,"I feel so alone, even when I'm with people.",Depressed
+1594,"I feel so alone, even when I'm with people.",Depressed
+1595,Had a wonderful time at the park today.,Not_Depressed
+1596,Looking forward to the weekend with my friends!,Not_Depressed
+1597,Looking forward to the weekend with my friends!,Not_Depressed
+1598,Life is beautiful and full of possibilities.,Not_Depressed
+1599,I'm so grateful for my supportive friends.,Not_Depressed
+1600,I've lost interest in everything I used to love.,Depressed
+1601,I feel so hopeless and tired all the time.,Depressed
+1602,I'm so grateful for my supportive friends.,Not_Depressed
+1603,I don't see any light at the end of the tunnel.,Depressed
+1604,It's hard to even get out of bed in the morning.,Depressed
+1605,It's hard to even get out of bed in the morning.,Depressed
+1606,Everything feels so heavy and meaningless.,Depressed
+1607,I feel like a burden to everyone around me.,Depressed
+1608,Life is beautiful and full of possibilities.,Not_Depressed
+1609,"Today was a great day, I feel so happy!",Not_Depressed
+1610,The sun is shining and I feel energized.,Not_Depressed
+1611,I cry for no reason almost every day.,Depressed
+1612,Had a wonderful time at the park today.,Not_Depressed
+1613,Life is beautiful and full of possibilities.,Not_Depressed
+1614,I just want to stay in bed and never wake up.,Depressed
+1615,I'm so grateful for my supportive friends.,Not_Depressed
+1616,Everything is just too much to handle right now.,Depressed
+1617,I've lost interest in everything I used to love.,Depressed
+1618,I don't see any light at the end of the tunnel.,Depressed
+1619,Had a wonderful time at the park today.,Not_Depressed
+1620,I just want to stay in bed and never wake up.,Depressed
+1621,Had a wonderful time at the park today.,Not_Depressed
+1622,I feel so hopeless and tired all the time.,Depressed
+1623,The sun is shining and I feel energized.,Not_Depressed
+1624,Had a wonderful time at the park today.,Not_Depressed
+1625,It's hard to even get out of bed in the morning.,Depressed
+1626,I feel so hopeless and tired all the time.,Depressed
+1627,Got a promotion at work today! So excited.,Not_Depressed
+1628,Had a wonderful time at the park today.,Not_Depressed
+1629,I'm feeling really productive this morning.,Not_Depressed
+1630,Got a promotion at work today! So excited.,Not_Depressed
+1631,Looking forward to the weekend with my friends!,Not_Depressed
+1632,I've lost interest in everything I used to love.,Depressed
+1633,I just want to stay in bed and never wake up.,Depressed
+1634,I'm so grateful for my supportive friends.,Not_Depressed
+1635,Life is beautiful and full of possibilities.,Not_Depressed
+1636,It's hard to even get out of bed in the morning.,Depressed
+1637,Life is beautiful and full of possibilities.,Not_Depressed
+1638,Everything is just too much to handle right now.,Depressed
+1639,Everything feels so heavy and meaningless.,Depressed
+1640,The sun is shining and I feel energized.,Not_Depressed
+1641,I cry for no reason almost every day.,Depressed
+1642,Life is beautiful and full of possibilities.,Not_Depressed
+1643,I'm so grateful for my supportive friends.,Not_Depressed
+1644,The sun is shining and I feel energized.,Not_Depressed
+1645,Looking forward to the weekend with my friends!,Not_Depressed
+1646,Just had a delicious lunch!,Not_Depressed
+1647,I just want to stay in bed and never wake up.,Depressed
+1648,Just had a delicious lunch!,Not_Depressed
+1649,Had a wonderful time at the park today.,Not_Depressed
+1650,I cry for no reason almost every day.,Depressed
+1651,"I feel so alone, even when I'm with people.",Depressed
+1652,I don't see any light at the end of the tunnel.,Depressed
+1653,I feel like a burden to everyone around me.,Depressed
+1654,I cry for no reason almost every day.,Depressed
+1655,I don't see any light at the end of the tunnel.,Depressed
+1656,Looking forward to the weekend with my friends!,Not_Depressed
+1657,Life is beautiful and full of possibilities.,Not_Depressed
+1658,"Today was a great day, I feel so happy!",Not_Depressed
+1659,Just had a delicious lunch!,Not_Depressed
+1660,I cry for no reason almost every day.,Depressed
+1661,I don't see any light at the end of the tunnel.,Depressed
+1662,Got a promotion at work today! So excited.,Not_Depressed
+1663,Got a promotion at work today! So excited.,Not_Depressed
+1664,It's hard to even get out of bed in the morning.,Depressed
+1665,Got a promotion at work today! So excited.,Not_Depressed
+1666,I don't see any light at the end of the tunnel.,Depressed
+1667,"I feel so alone, even when I'm with people.",Depressed
+1668,"I feel so alone, even when I'm with people.",Depressed
+1669,I cry for no reason almost every day.,Depressed
+1670,I'm so grateful for my supportive friends.,Not_Depressed
+1671,Had a wonderful time at the park today.,Not_Depressed
+1672,I feel like a burden to everyone around me.,Depressed
+1673,I cry for no reason almost every day.,Depressed
+1674,I'm feeling really productive this morning.,Not_Depressed
+1675,I feel like a burden to everyone around me.,Depressed
+1676,Looking forward to the weekend with my friends!,Not_Depressed
+1677,I feel so hopeless and tired all the time.,Depressed
+1678,The sun is shining and I feel energized.,Not_Depressed
+1679,I feel so hopeless and tired all the time.,Depressed
+1680,It's hard to even get out of bed in the morning.,Depressed
+1681,Everything feels so heavy and meaningless.,Depressed
+1682,"I feel so alone, even when I'm with people.",Depressed
+1683,The sun is shining and I feel energized.,Not_Depressed
+1684,I feel like a burden to everyone around me.,Depressed
+1685,I feel like a burden to everyone around me.,Depressed
+1686,"Today was a great day, I feel so happy!",Not_Depressed
+1687,I'm feeling really productive this morning.,Not_Depressed
+1688,I'm really enjoying this new book I'm reading.,Not_Depressed
+1689,Everything feels so heavy and meaningless.,Depressed
+1690,It's hard to even get out of bed in the morning.,Depressed
+1691,I feel like a burden to everyone around me.,Depressed
+1692,Looking forward to the weekend with my friends!,Not_Depressed
+1693,I feel so hopeless and tired all the time.,Depressed
+1694,Everything feels so heavy and meaningless.,Depressed
+1695,Life is beautiful and full of possibilities.,Not_Depressed
+1696,Had a wonderful time at the park today.,Not_Depressed
+1697,Life is beautiful and full of possibilities.,Not_Depressed
+1698,I've lost interest in everything I used to love.,Depressed
+1699,I'm feeling really productive this morning.,Not_Depressed
+1700,"I feel so alone, even when I'm with people.",Depressed
+1701,I just want to stay in bed and never wake up.,Depressed
+1702,I don't see any light at the end of the tunnel.,Depressed
+1703,"I feel so alone, even when I'm with people.",Depressed
+1704,"Today was a great day, I feel so happy!",Not_Depressed
+1705,"Today was a great day, I feel so happy!",Not_Depressed
+1706,I don't see any light at the end of the tunnel.,Depressed
+1707,Life is beautiful and full of possibilities.,Not_Depressed
+1708,I don't see any light at the end of the tunnel.,Depressed
+1709,Everything feels so heavy and meaningless.,Depressed
+1710,Looking forward to the weekend with my friends!,Not_Depressed
+1711,Everything feels so heavy and meaningless.,Depressed
+1712,I feel so hopeless and tired all the time.,Depressed
+1713,I'm feeling really productive this morning.,Not_Depressed
+1714,Everything feels so heavy and meaningless.,Depressed
+1715,"I feel so alone, even when I'm with people.",Depressed
+1716,It's hard to even get out of bed in the morning.,Depressed
+1717,Everything is just too much to handle right now.,Depressed
+1718,"Today was a great day, I feel so happy!",Not_Depressed
+1719,Had a wonderful time at the park today.,Not_Depressed
+1720,Looking forward to the weekend with my friends!,Not_Depressed
+1721,Everything feels so heavy and meaningless.,Depressed
+1722,I feel like a burden to everyone around me.,Depressed
+1723,I just want to stay in bed and never wake up.,Depressed
+1724,I've lost interest in everything I used to love.,Depressed
+1725,Everything feels so heavy and meaningless.,Depressed
+1726,Just had a delicious lunch!,Not_Depressed
+1727,Had a wonderful time at the park today.,Not_Depressed
+1728,"I feel so alone, even when I'm with people.",Depressed
+1729,I just want to stay in bed and never wake up.,Depressed
+1730,I feel so hopeless and tired all the time.,Depressed
+1731,I feel like a burden to everyone around me.,Depressed
+1732,Looking forward to the weekend with my friends!,Not_Depressed
+1733,I feel like a burden to everyone around me.,Depressed
+1734,Got a promotion at work today! So excited.,Not_Depressed
+1735,I don't see any light at the end of the tunnel.,Depressed
+1736,Everything feels so heavy and meaningless.,Depressed
+1737,"I feel so alone, even when I'm with people.",Depressed
+1738,I feel so hopeless and tired all the time.,Depressed
+1739,I just want to stay in bed and never wake up.,Depressed
+1740,I just want to stay in bed and never wake up.,Depressed
+1741,It's hard to even get out of bed in the morning.,Depressed
+1742,I'm so grateful for my supportive friends.,Not_Depressed
+1743,I've lost interest in everything I used to love.,Depressed
+1744,The sun is shining and I feel energized.,Not_Depressed
+1745,"Today was a great day, I feel so happy!",Not_Depressed
+1746,I'm so grateful for my supportive friends.,Not_Depressed
+1747,The sun is shining and I feel energized.,Not_Depressed
+1748,The sun is shining and I feel energized.,Not_Depressed
+1749,I feel so hopeless and tired all the time.,Depressed
+1750,I'm feeling really productive this morning.,Not_Depressed
+1751,Looking forward to the weekend with my friends!,Not_Depressed
+1752,I'm feeling really productive this morning.,Not_Depressed
+1753,Life is beautiful and full of possibilities.,Not_Depressed
+1754,I'm so grateful for my supportive friends.,Not_Depressed
+1755,Just had a delicious lunch!,Not_Depressed
+1756,I'm really enjoying this new book I'm reading.,Not_Depressed
+1757,"I feel so alone, even when I'm with people.",Depressed
+1758,Had a wonderful time at the park today.,Not_Depressed
+1759,It's hard to even get out of bed in the morning.,Depressed
+1760,"I feel so alone, even when I'm with people.",Depressed
+1761,It's hard to even get out of bed in the morning.,Depressed
+1762,I cry for no reason almost every day.,Depressed
+1763,It's hard to even get out of bed in the morning.,Depressed
+1764,Looking forward to the weekend with my friends!,Not_Depressed
+1765,The sun is shining and I feel energized.,Not_Depressed
+1766,I've lost interest in everything I used to love.,Depressed
+1767,Everything is just too much to handle right now.,Depressed
+1768,Got a promotion at work today! So excited.,Not_Depressed
+1769,I feel so hopeless and tired all the time.,Depressed
+1770,I feel so hopeless and tired all the time.,Depressed
+1771,I feel so hopeless and tired all the time.,Depressed
+1772,I cry for no reason almost every day.,Depressed
+1773,I feel so hopeless and tired all the time.,Depressed
+1774,Life is beautiful and full of possibilities.,Not_Depressed
+1775,I cry for no reason almost every day.,Depressed
+1776,The sun is shining and I feel energized.,Not_Depressed
+1777,I don't see any light at the end of the tunnel.,Depressed
+1778,I feel like a burden to everyone around me.,Depressed
+1779,"Today was a great day, I feel so happy!",Not_Depressed
+1780,Had a wonderful time at the park today.,Not_Depressed
+1781,The sun is shining and I feel energized.,Not_Depressed
+1782,It's hard to even get out of bed in the morning.,Depressed
+1783,I feel so hopeless and tired all the time.,Depressed
+1784,I'm really enjoying this new book I'm reading.,Not_Depressed
+1785,I just want to stay in bed and never wake up.,Depressed
+1786,Everything is just too much to handle right now.,Depressed
+1787,Had a wonderful time at the park today.,Not_Depressed
+1788,Everything is just too much to handle right now.,Depressed
+1789,I'm feeling really productive this morning.,Not_Depressed
+1790,Just had a delicious lunch!,Not_Depressed
+1791,I've lost interest in everything I used to love.,Depressed
+1792,Everything feels so heavy and meaningless.,Depressed
+1793,I cry for no reason almost every day.,Depressed
+1794,I'm really enjoying this new book I'm reading.,Not_Depressed
+1795,Everything is just too much to handle right now.,Depressed
+1796,"I feel so alone, even when I'm with people.",Depressed
+1797,I'm feeling really productive this morning.,Not_Depressed
+1798,"Today was a great day, I feel so happy!",Not_Depressed
+1799,I've lost interest in everything I used to love.,Depressed
+1800,I feel so hopeless and tired all the time.,Depressed
+1801,I feel so hopeless and tired all the time.,Depressed
+1802,Looking forward to the weekend with my friends!,Not_Depressed
+1803,It's hard to even get out of bed in the morning.,Depressed
+1804,I'm really enjoying this new book I'm reading.,Not_Depressed
+1805,"Today was a great day, I feel so happy!",Not_Depressed
+1806,Life is beautiful and full of possibilities.,Not_Depressed
+1807,The sun is shining and I feel energized.,Not_Depressed
+1808,Everything is just too much to handle right now.,Depressed
+1809,Got a promotion at work today! So excited.,Not_Depressed
+1810,I feel so hopeless and tired all the time.,Depressed
+1811,Just had a delicious lunch!,Not_Depressed
+1812,Had a wonderful time at the park today.,Not_Depressed
+1813,I'm feeling really productive this morning.,Not_Depressed
+1814,Everything is just too much to handle right now.,Depressed
+1815,I cry for no reason almost every day.,Depressed
+1816,I cry for no reason almost every day.,Depressed
+1817,Got a promotion at work today! So excited.,Not_Depressed
+1818,The sun is shining and I feel energized.,Not_Depressed
+1819,I've lost interest in everything I used to love.,Depressed
+1820,It's hard to even get out of bed in the morning.,Depressed
+1821,Life is beautiful and full of possibilities.,Not_Depressed
+1822,Just had a delicious lunch!,Not_Depressed
+1823,Life is beautiful and full of possibilities.,Not_Depressed
+1824,I'm really enjoying this new book I'm reading.,Not_Depressed
+1825,Had a wonderful time at the park today.,Not_Depressed
+1826,Just had a delicious lunch!,Not_Depressed
+1827,The sun is shining and I feel energized.,Not_Depressed
+1828,I'm so grateful for my supportive friends.,Not_Depressed
+1829,I cry for no reason almost every day.,Depressed
+1830,"I feel so alone, even when I'm with people.",Depressed
+1831,I don't see any light at the end of the tunnel.,Depressed
+1832,Got a promotion at work today! So excited.,Not_Depressed
+1833,The sun is shining and I feel energized.,Not_Depressed
+1834,Everything is just too much to handle right now.,Depressed
+1835,The sun is shining and I feel energized.,Not_Depressed
+1836,Life is beautiful and full of possibilities.,Not_Depressed
+1837,Everything is just too much to handle right now.,Depressed
+1838,I cry for no reason almost every day.,Depressed
+1839,"I feel so alone, even when I'm with people.",Depressed
+1840,Everything feels so heavy and meaningless.,Depressed
+1841,The sun is shining and I feel energized.,Not_Depressed
+1842,I'm really enjoying this new book I'm reading.,Not_Depressed
+1843,"I feel so alone, even when I'm with people.",Depressed
+1844,Looking forward to the weekend with my friends!,Not_Depressed
+1845,Had a wonderful time at the park today.,Not_Depressed
+1846,It's hard to even get out of bed in the morning.,Depressed
+1847,I cry for no reason almost every day.,Depressed
+1848,I cry for no reason almost every day.,Depressed
+1849,Everything feels so heavy and meaningless.,Depressed
+1850,I just want to stay in bed and never wake up.,Depressed
+1851,It's hard to even get out of bed in the morning.,Depressed
+1852,Everything is just too much to handle right now.,Depressed
+1853,Everything is just too much to handle right now.,Depressed
+1854,I'm feeling really productive this morning.,Not_Depressed
+1855,The sun is shining and I feel energized.,Not_Depressed
+1856,I feel like a burden to everyone around me.,Depressed
+1857,I don't see any light at the end of the tunnel.,Depressed
+1858,I'm really enjoying this new book I'm reading.,Not_Depressed
+1859,Everything is just too much to handle right now.,Depressed
+1860,I feel so hopeless and tired all the time.,Depressed
+1861,I've lost interest in everything I used to love.,Depressed
+1862,I feel so hopeless and tired all the time.,Depressed
+1863,I feel like a burden to everyone around me.,Depressed
+1864,I just want to stay in bed and never wake up.,Depressed
+1865,It's hard to even get out of bed in the morning.,Depressed
+1866,I feel so hopeless and tired all the time.,Depressed
+1867,I feel like a burden to everyone around me.,Depressed
+1868,I'm feeling really productive this morning.,Not_Depressed
+1869,Everything feels so heavy and meaningless.,Depressed
+1870,Had a wonderful time at the park today.,Not_Depressed
+1871,Got a promotion at work today! So excited.,Not_Depressed
+1872,It's hard to even get out of bed in the morning.,Depressed
+1873,I cry for no reason almost every day.,Depressed
+1874,I feel like a burden to everyone around me.,Depressed
+1875,Had a wonderful time at the park today.,Not_Depressed
+1876,"I feel so alone, even when I'm with people.",Depressed
+1877,I feel so hopeless and tired all the time.,Depressed
+1878,I just want to stay in bed and never wake up.,Depressed
+1879,"Today was a great day, I feel so happy!",Not_Depressed
+1880,The sun is shining and I feel energized.,Not_Depressed
+1881,I've lost interest in everything I used to love.,Depressed
+1882,"Today was a great day, I feel so happy!",Not_Depressed
+1883,I'm really enjoying this new book I'm reading.,Not_Depressed
+1884,Had a wonderful time at the park today.,Not_Depressed
+1885,It's hard to even get out of bed in the morning.,Depressed
+1886,I'm feeling really productive this morning.,Not_Depressed
+1887,Got a promotion at work today! So excited.,Not_Depressed
+1888,I just want to stay in bed and never wake up.,Depressed
+1889,I'm so grateful for my supportive friends.,Not_Depressed
+1890,I just want to stay in bed and never wake up.,Depressed
+1891,I'm feeling really productive this morning.,Not_Depressed
+1892,Had a wonderful time at the park today.,Not_Depressed
+1893,"I feel so alone, even when I'm with people.",Depressed
+1894,Everything is just too much to handle right now.,Depressed
+1895,Everything feels so heavy and meaningless.,Depressed
+1896,I'm so grateful for my supportive friends.,Not_Depressed
+1897,Got a promotion at work today! So excited.,Not_Depressed
+1898,I feel so hopeless and tired all the time.,Depressed
+1899,Had a wonderful time at the park today.,Not_Depressed
+1900,I cry for no reason almost every day.,Depressed
+1901,Life is beautiful and full of possibilities.,Not_Depressed
+1902,Life is beautiful and full of possibilities.,Not_Depressed
+1903,Everything is just too much to handle right now.,Depressed
+1904,I feel like a burden to everyone around me.,Depressed
+1905,Just had a delicious lunch!,Not_Depressed
+1906,Got a promotion at work today! So excited.,Not_Depressed
+1907,I don't see any light at the end of the tunnel.,Depressed
+1908,I'm so grateful for my supportive friends.,Not_Depressed
+1909,I cry for no reason almost every day.,Depressed
+1910,"I feel so alone, even when I'm with people.",Depressed
+1911,Got a promotion at work today! So excited.,Not_Depressed
+1912,Everything feels so heavy and meaningless.,Depressed
+1913,"I feel so alone, even when I'm with people.",Depressed
+1914,Life is beautiful and full of possibilities.,Not_Depressed
+1915,I just want to stay in bed and never wake up.,Depressed
+1916,I've lost interest in everything I used to love.,Depressed
+1917,Had a wonderful time at the park today.,Not_Depressed
+1918,I've lost interest in everything I used to love.,Depressed
+1919,Just had a delicious lunch!,Not_Depressed
+1920,Everything feels so heavy and meaningless.,Depressed
+1921,"I feel so alone, even when I'm with people.",Depressed
+1922,The sun is shining and I feel energized.,Not_Depressed
+1923,Life is beautiful and full of possibilities.,Not_Depressed
+1924,The sun is shining and I feel energized.,Not_Depressed
+1925,Everything feels so heavy and meaningless.,Depressed
+1926,Everything is just too much to handle right now.,Depressed
+1927,Everything feels so heavy and meaningless.,Depressed
+1928,I've lost interest in everything I used to love.,Depressed
+1929,I feel so hopeless and tired all the time.,Depressed
+1930,Just had a delicious lunch!,Not_Depressed
+1931,"Today was a great day, I feel so happy!",Not_Depressed
+1932,I feel so hopeless and tired all the time.,Depressed
+1933,I feel like a burden to everyone around me.,Depressed
+1934,I cry for no reason almost every day.,Depressed
+1935,Looking forward to the weekend with my friends!,Not_Depressed
+1936,Looking forward to the weekend with my friends!,Not_Depressed
+1937,I've lost interest in everything I used to love.,Depressed
+1938,Got a promotion at work today! So excited.,Not_Depressed
+1939,I just want to stay in bed and never wake up.,Depressed
+1940,"I feel so alone, even when I'm with people.",Depressed
+1941,Everything feels so heavy and meaningless.,Depressed
+1942,The sun is shining and I feel energized.,Not_Depressed
+1943,Everything is just too much to handle right now.,Depressed
+1944,I'm so grateful for my supportive friends.,Not_Depressed
+1945,Everything feels so heavy and meaningless.,Depressed
+1946,I just want to stay in bed and never wake up.,Depressed
+1947,"I feel so alone, even when I'm with people.",Depressed
+1948,I just want to stay in bed and never wake up.,Depressed
+1949,I don't see any light at the end of the tunnel.,Depressed
+1950,I'm so grateful for my supportive friends.,Not_Depressed
+1951,Got a promotion at work today! So excited.,Not_Depressed
+1952,Life is beautiful and full of possibilities.,Not_Depressed
+1953,Everything feels so heavy and meaningless.,Depressed
+1954,Everything is just too much to handle right now.,Depressed
+1955,Got a promotion at work today! So excited.,Not_Depressed
+1956,I don't see any light at the end of the tunnel.,Depressed
+1957,Had a wonderful time at the park today.,Not_Depressed
+1958,I've lost interest in everything I used to love.,Depressed
+1959,"Today was a great day, I feel so happy!",Not_Depressed
+1960,"I feel so alone, even when I'm with people.",Depressed
+1961,I just want to stay in bed and never wake up.,Depressed
+1962,It's hard to even get out of bed in the morning.,Depressed
+1963,"I feel so alone, even when I'm with people.",Depressed
+1964,I'm feeling really productive this morning.,Not_Depressed
+1965,"I feel so alone, even when I'm with people.",Depressed
+1966,I feel like a burden to everyone around me.,Depressed
+1967,Looking forward to the weekend with my friends!,Not_Depressed
+1968,Everything feels so heavy and meaningless.,Depressed
+1969,Had a wonderful time at the park today.,Not_Depressed
+1970,I don't see any light at the end of the tunnel.,Depressed
+1971,"Today was a great day, I feel so happy!",Not_Depressed
+1972,"I feel so alone, even when I'm with people.",Depressed
+1973,I feel so hopeless and tired all the time.,Depressed
+1974,I feel so hopeless and tired all the time.,Depressed
+1975,"Today was a great day, I feel so happy!",Not_Depressed
+1976,I don't see any light at the end of the tunnel.,Depressed
+1977,It's hard to even get out of bed in the morning.,Depressed
+1978,Just had a delicious lunch!,Not_Depressed
+1979,Looking forward to the weekend with my friends!,Not_Depressed
+1980,Got a promotion at work today! So excited.,Not_Depressed
+1981,I just want to stay in bed and never wake up.,Depressed
+1982,I just want to stay in bed and never wake up.,Depressed
+1983,It's hard to even get out of bed in the morning.,Depressed
+1984,"I feel so alone, even when I'm with people.",Depressed
+1985,I feel like a burden to everyone around me.,Depressed
+1986,I just want to stay in bed and never wake up.,Depressed
+1987,I feel like a burden to everyone around me.,Depressed
+1988,"I feel so alone, even when I'm with people.",Depressed
+1989,Life is beautiful and full of possibilities.,Not_Depressed
+1990,Just had a delicious lunch!,Not_Depressed
+1991,Looking forward to the weekend with my friends!,Not_Depressed
+1992,I feel so hopeless and tired all the time.,Depressed
+1993,I feel so hopeless and tired all the time.,Depressed
+1994,I'm so grateful for my supportive friends.,Not_Depressed
+1995,It's hard to even get out of bed in the morning.,Depressed
+1996,I'm really enjoying this new book I'm reading.,Not_Depressed
+1997,"I feel so alone, even when I'm with people.",Depressed
+1998,"Today was a great day, I feel so happy!",Not_Depressed
+1999,I cry for no reason almost every day.,Depressed
+2000,The sun is shining and I feel energized.,Not_Depressed
